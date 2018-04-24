@@ -64,7 +64,7 @@ heroButtons:
 # About Block
 aboutTitle: "About Full Stack Toronto"
 aboutBlock:
- - {title: "Content", image: "conference.jpg", text: "Our carefully curated content that focuses on growing your career as a senior developer is what really sets our event a part from others." }
+ - {title: "Curated Content", image: "conference.jpg", text: "Our carefully curated content that focuses on growing your career as a senior developer is what really sets our event a part from others." }
  - {title: "Networking", image: "workshop.jpg", text: "We attract talent from all different walks of life, skill level, industries and more, making it the best place to hear a different point of view!" }
 
 # Statistic Block
