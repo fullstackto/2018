@@ -14,7 +14,7 @@
       height: 100%;
       z-index: 2;
       object-fit: cover;
-      mix-blend-mode: difference;
+      mix-blend-mode: color-burn;
     }
     $opacity: 1;
     .rainbow {
@@ -22,12 +22,11 @@
       height: 100%;
       position: absolute;
       z-index: 1;
-      background: repeating-linear-gradient( -45deg, rgba(255, 0, 0, $opacity) 0, rgba(255, 125, 0, $opacity) 50px, rgba(125, 125, 0, $opacity) 100px, rgba(125, 255, 0, $opacity) 150px, rgba(0, 255, 0, $opacity) 200px, rgba(0, 0, 255, $opacity) 250px, rgba(125, 125, 255, $opacity) 300px, rgba(255, 0, 255, $opacity) 350px, rgba(255, 0, 0, $opacity) 400px);
+      background: url('../img/sections-background/plainbg.jpg');
     	background-blend-mode: overlay;
     	background-position: center center;
     	background-repeat: no-repeat;
     	background-size: cover;
-      opacity: 0.5;
     }
     .jumbotron {
         position: relative;

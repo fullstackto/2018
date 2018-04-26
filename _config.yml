@@ -10,11 +10,11 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Full Stack Toronto 2018 <typeout>"
+title: "Full Stack Toronto 2018"
 email: "comms@fsto.co"
-description: "FSTO is conference for web developers focusing on senior and quality content."
+description: "FSTO is a conference for web developers focusing on senior and quality content."
 baseurl: ""
-url: "https://fsto.co"
+url: "http://fsto.co"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-48190009-2"
 googleAnalyticsSiteUrl: "fsto.co"
@@ -96,7 +96,7 @@ eventPostalCode: "M5J 2V5"
 eventAddressCountry: "Canada"
 eventStartTime: "2018-11-15T9:00"
 eventDoorTime: "08:30"
-eventEndTime: "2018-11-16T20:00"
+eventEndTime: "2018-11-16T17:00"
 eventPlaceCoordinates: "43.643452, -79.380987"
 mapCenterCoordinates: "43.643452, -79.380987"
 mapMobileCenterCoordinates: "43.643452, -79.380987"
@@ -133,37 +133,37 @@ ticketsInfo: "Tickets grant access to all conference sections, coffee breaks, lu
 ticketsOffers:
  -
   name: "Early Bird"
-  price: "350"
+  price: "300"
   priceCurrency: "CAD"
-  ticketsNumber: "150"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  ticketsNumber: "100"
+  ribbon: ""
+  buyButtonLink: "https://ti.to/fstoco/2018"
   buyButtonText: "Buy Now"
-  ticketContentList: ["", "", ""]
+  ticketContentList: ["Lunch", "Swag", "All Access"]
   validFrom: "2018-04-25T10:00"
   validThrough: "2018-11-01T23:59"
  -
   name: "Last Chance"
-  price: "450"
+  price: "375"
   priceCurrency: "CAD"
   ticketsNumber: "150"
-  ribbon: "-20%"
+  ribbon: ""
   featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "https://ti.to/fstoco/2018"
   buyButtonText: "Buy Now"
-  ticketContentList: ["", "", ""]
+  ticketContentList: ["Lunch", "Swag", "All Access"]
   validFrom: "2018-08-01T00:00"
   validThrough: "2018-11-13T23:59"
   disabled: true
  -
   name: "Student"
-  price: "200"
+  price: "50"
   priceCurrency: "CAD"
   ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "https://ti.to/fstoco/2018"
   buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["", "", ""]
+  additionalInfo: "Requires a valid student ID to be emailed to registration@fsto.co"
+  ticketContentList: ["Lunch", "Swag", "All Access"]
   validFrom: "2018-04-25T10:00"
   validThrough: "2018-11-14T23:59"
   soldOut: false
