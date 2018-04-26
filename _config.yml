@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Full Stack Toronto 2018"
+title: "Full Stack Toronto 2018 <typeout>"
 email: "comms@fsto.co"
 description: "FSTO is conference for web developers focusing on senior and quality content."
 baseurl: ""
@@ -62,10 +62,11 @@ heroButtons:
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About Full Stack Toronto"
+aboutTitle: "The Full Stack Toronto Experience"
 aboutBlock:
- - {title: "Curated Content", image: "conference.jpg", text: "Our carefully curated content that focuses on growing your career as a senior developer is what really sets our event a part from others." }
- - {title: "Networking", image: "workshop.jpg", text: "We attract talent from all different walks of life, skill level, industries and more, making it the best place to hear a different point of view!" }
+ - {title: "Diversity & Inclusion", image: "conference.jpg", text: "#fstoco is organized by a diverse group of individuals, and seeks to have a diverse line-up of speakers. We make sure that our event is a safe space for learning including gender non-binary washrooms and an enforced code of conduct. We also take great pride in attracting attendees from all around the world. Toronto is diverse and so should it’s leading tech event!" }
+ - {title: "Curated Content", image: "workshop.jpg", text: "Our planning process starts with great quality content, we carefully select topics that you can go right back to work and start integrating into your existing stack. Those topics are laid out in the schedule so you get exposed to more than just your specialization and stack, then find amazing speakers to talk in those spots. This is a lot different than the traditional CFP process." }
+ - {title: "Networking", image: "workshop.jpg", text: "We design our networking around breaking down barriers. We offer you a space on your name tag to put your passion so someone else can make that first intro, we’ve put games, lego, and other icebreakers around the venue so you can come together over a common task to feel less interrogated and a mix of designers and developers at the event spurs amazing conversations!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -73,7 +74,7 @@ statisticBlock:
  - {count: "300", specialCharacter: "+", info: "attendees", detail: "from around the world"}
  - {count: "2", specialCharacter: "", info: "days", detail: "of pure learning"}
  - {count: "20", specialCharacter: "+", info: "speakers", detail: "across all of tech"}
- - {count: "1", specialCharacter: "", info: "track", detail: "so you never miss a tip!"}
+ - {count: "40", specialCharacter: "%", info: "representation", detail: "by typically underreresented demos"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"

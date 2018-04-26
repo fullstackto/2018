@@ -1,14 +1,16 @@
 <!-- Begin Hero Section -->
 <section id="top-section-hero" class="top-section-hero top-section image-section">
-  <video autoplay loop muted>
-    <source src="{{ site.baseurl }}/img/sections-background/triangles.mp4" type="video/mp4" />
-  </video>
-    {% include navigation.html %}
-    <div class="content-wrapper">
+  <div class="rainbow"></div>
+    <video autoplay loop muted>
+      <source src="{{ site.baseurl }}/img/sections-background/triangles.mp4" type="video/mp4" />
+    </video>
+
+  {% include navigation.html %}
+  <div class="content-wrapper">
     <div class="jumbotron">
         <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
-            {% assign heroText = site.heroTitle | split:"<typeout>" %}
-            <h1>{{ heroText[0] }}<span id="typeout-text" class="hidden-xs"></span><span class="typeout-fallback">{{ site.typeoutFallback }}</span>{{ heroText[1] }}</h1>
+            {% assign heroText = site.heroTitle %}
+            <h1>{{ site.heroTitle }}</h1>
             <p>{{ site.eventDate }}</p>
             {% for button in site.heroButtons %}
             <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
@@ -20,6 +22,6 @@
             <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-arrow-down"></use>
         </svg>
     </a>
-    </div>
+  </div>
 </section>
 <!-- End Hero Section -->
