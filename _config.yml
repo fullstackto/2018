@@ -47,9 +47,9 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://www.papercall.io/fstoco18", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://www.papercall.io/fstoco18", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -217,17 +217,18 @@ directionDetailsWideCards:
    -
     title: "Hotels"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "TBA"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "#", text: "Delta"}
+     - {link: "#", text: "Strathcona"}
+     - {link: "#", text: "Le Germain"}
+     - {link: "#", text: "Westin Harbour Castle"}
    -
-    title: "Registration"
+    title: "Attractions"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "#", text: "CN Tower"}
+     - {link: "#", text: "Ripleys Aquarium"}
+     - {link: "#", text: "The Rec Room"}
+     - {link: "#", text: "The AGO"}
+     - {link: "#", text: "The ROM"}
    -
     title: "Attendance Details"
     links:
