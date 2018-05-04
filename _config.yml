@@ -37,7 +37,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "https://www.papercall.io/fstoco18"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4sponsorsUrl: "mailto: sponsorship@fsto.co"
 
 
 # Navigation
@@ -133,9 +133,9 @@ ticketsInfo: "Tickets grant access to all conference sections, coffee breaks, lu
 ticketsOffers:
  -
   name: "Early Bird"
-  price: "300"
+  price: "499"
   priceCurrency: "CAD"
-  ticketsNumber: "100"
+  ticketsNumber: "300"
   ribbon: ""
   buyButtonLink: "https://ti.to/fstoco/2018"
   buyButtonText: "Buy Now"
@@ -144,9 +144,9 @@ ticketsOffers:
   validThrough: "2018-11-01T23:59"
  -
   name: "Last Chance"
-  price: "375"
+  price: "699"
   priceCurrency: "CAD"
-  ticketsNumber: "150"
+  ticketsNumber: "0"
   ribbon: ""
   featured: true
   buyButtonLink: "https://ti.to/fstoco/2018"
@@ -157,7 +157,7 @@ ticketsOffers:
   disabled: true
  -
   name: "Student"
-  price: "50"
+  price: "99"
   priceCurrency: "CAD"
   ticketsNumber: "50"
   buyButtonLink: "https://ti.to/fstoco/2018"
@@ -230,12 +230,12 @@ directionDetailsWideCards:
      - {link: "#", text: "The AGO"}
      - {link: "#", text: "The ROM"}
    -
-    title: "Attendance Details"
+    title: "More later"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "#", text: "TBA"}
+     - {link: "#", text: "TBA"}
+     - {link: "#", text: "TBA"}
+     - {link: "#", text: "TBA"}
 
 # Hackathon
 hackathonTitle: "Hackathon"
