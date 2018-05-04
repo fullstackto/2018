@@ -139,7 +139,7 @@ ticketsOffers:
   ribbon: ""
   buyButtonLink: "https://ti.to/fstoco/2018"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Lunch", "Swag", "All Access"]
+  ticketContentList: ["Light Breakfast, Lunch", "Swag", "Recordings of Sessions"]
   validFrom: "2018-04-25T10:00"
   validThrough: "2018-11-01T23:59"
  -
@@ -151,7 +151,7 @@ ticketsOffers:
   featured: true
   buyButtonLink: "https://ti.to/fstoco/2018"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Lunch", "Swag", "All Access"]
+  ticketContentList: ["Light Breakfast, Lunch", "Swag", "Recordings of Sessions"]
   validFrom: "2018-08-01T00:00"
   validThrough: "2018-11-13T23:59"
   disabled: true
@@ -163,7 +163,7 @@ ticketsOffers:
   buyButtonLink: "https://ti.to/fstoco/2018"
   buyButtonText: "Buy Now"
   additionalInfo: "Requires a valid student ID to be emailed to registration@fsto.co"
-  ticketContentList: ["Lunch", "Swag", "All Access"]
+  ticketContentList: ["Light Breakfast, Lunch", "Swag", "Networking"]
   validFrom: "2018-04-25T10:00"
   validThrough: "2018-11-14T23:59"
   soldOut: false
