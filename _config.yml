@@ -132,23 +132,11 @@ ticketsTitle: "Pricetable"
 ticketsInfo: "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price. We do not provide visas"
 ticketsOffers:
  -
-  name: "Early Bird"
-  price: "499"
-  priceCurrency: "CAD"
-  ticketsNumber: "300"
-  ribbon: ""
-  buyButtonLink: "https://ti.to/fstoco/2018"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Light Breakfast, Lunch", "Swag", "Recordings of Sessions"]
-  validFrom: "2018-04-25T10:00"
-  validThrough: "2018-11-01T23:59"
- -
   name: "Last Chance"
-  price: "699"
+  price: "499"
   priceCurrency: "CAD"
   ticketsNumber: "0"
   ribbon: ""
-  featured: true
   buyButtonLink: "https://ti.to/fstoco/2018"
   buyButtonText: "Buy Now"
   ticketContentList: ["Light Breakfast, Lunch", "Swag", "Recordings of Sessions"]
@@ -156,10 +144,23 @@ ticketsOffers:
   validThrough: "2018-11-13T23:59"
   disabled: true
  -
-  name: "Student"
+  name: "Early Bird"
+  price: "299"
+  priceCurrency: "CAD"
+  ticketsNumber: "300"
+  ribbon: ""
+  featured: true
+  buyButtonLink: "https://ti.to/fstoco/2018"
+  buyButtonText: "Buy Now"
+  ticketContentList: ["Light Breakfast, Lunch", "Swag", "Recordings of Sessions"]
+  validFrom: "2018-04-25T10:00"
+  validThrough: "2018-11-01T23:59"
+  disabled: false
+ -
+  name: "Student/NPO"
   price: "99"
   priceCurrency: "CAD"
-  ticketsNumber: "50"
+  ticketsNumber: "100"
   buyButtonLink: "https://ti.to/fstoco/2018"
   buyButtonText: "Buy Now"
   additionalInfo: "Requires a valid student ID to be emailed to registration@fsto.co"
