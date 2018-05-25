@@ -17,3 +17,21 @@
   speakers: [3]
   language: en
   complexity: "Intermediate"
+-
+  id: 002
+  title: Building APIs for an unreliable world
+  description: |
+    Networks and computing systems are unreliable. Connections drop or slow to
+    a crawl. Hard drives break and systems turn off without warning. These
+    issues affect public and private APIs alike, but can spell disaster for
+    microservices, as unreliability can lead to inconsistency.
+
+    In this talk, we will explore strategies for designing APIs that can help
+    mitigate unreliability. We will look at how the details of an implementation
+    can influence resilience. Finally, we will see how design and implementation
+    influence each other for creating an API that is best suited to tackle
+    unreliability.
+  subtype: workshop
+  speakers: [4]
+  language: en
+  complexity: "Intermediate"
