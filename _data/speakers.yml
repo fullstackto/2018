@@ -6,33 +6,22 @@
   title: "TBA"
   bio: "TBA"
   thumbnailUrl: tba.jpg
-
 -
   id: 4
   name: "James"
   surname: "Bowes"
   company: "Manifold"
   title: "Technical Lead"
-  bio: "|
-    James Bowes is the Technical Lead at Manifold. Over his 13 year career he
-    has worked for companies like Red Hat and Salesforce as a senior member of
-    the technical staff. James has scaled early stage startups and also managed
-    and sustained large organizations. James is mainly a backend developer,
-    focusing on thorny concurrency issues, but whenever he can, he likes to
-    build infrastructure, try out cool new software, help his peers learn, and
-    make people laugh."
+  bio: "James Bowes is the Technical Lead at Manifold. Over his 13 year career he has worked for companies like Red Hat and Salesforce as a senior member of the technical staff. James has scaled early stage startups and also managed and sustained large organizations. James is mainly a backend developer, focusing on thorny concurrency issues, but whenever he can, he likes to build infrastructure, try out cool new software, help his peers learn, and make people laugh."
   thumbnailUrl: jbowes.jpg
   rockstar: true
-  -
+-
   id: 5
   name: "Schulyk"
   surname: "Janina"
   company: "SAP"
   title: "Senior User Experience Designer"
-  bio: "I am a senior user experience designer within the central SAP design team. Before that, I worked for more than three years as an OpenUI5 engineer and was one of the drivers behind the open sourcing activities.
-With those two diverse backgrounds, I can understand the design as well as the development perspective.
-I have proven experience in holding workshops, trainings and talks on external events and conferences. Within SAP, I regularly conduct trainings about design and development related topics."
+  bio: "I am a senior user experience designer within the central SAP design team. Before that, I worked for more than three years as an OpenUI5 engineer and was one of the drivers behind the open sourcing activities. | With those two diverse backgrounds, I can understand the design as well as the development perspective. | I have proven experience in holding workshops, trainings and talks on external events and conferences. Within SAP, I regularly conduct trainings about design and development related topics."
   thumbnailUrl: schulyk.jpg
   rockstar: true
-
 -
