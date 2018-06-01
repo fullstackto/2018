@@ -31,15 +31,15 @@
     can influence resilience. Finally, we will see how design and implementation
     influence each other for creating an API that is best suited to tackle
     unreliability."
-  subtype: "workshop"
+  subtype: workshop
   speakers: [4]
   language: en
   complexity: "Intermediate"
-  -
+-
   id: 003
   title: "More than colors and whitespaces – designing enterprise applications"
   description: "Designing good applications is complex, involves analytical and creative thinking, as well as a lot of tedious, but necessary work. Defining a design language that cares about end users and empowers designers to create appealing and intuitive apps – while covering business needs and ensuring consistency – is a major challenge. We will share our insights and best practices based on our own journey."
-  subtype: talk
+  subtype: workshop
   speakers: [5]
   language: en
   complexity: "All"
