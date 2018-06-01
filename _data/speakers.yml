@@ -23,3 +23,16 @@
     build infrastructure, try out cool new software, help his peers learn, and
     make people laugh.
   thumbnailUrl: jbowes.jpg
+  -
+  id: 5
+  name: "Schulyk"
+  surname: "Janina"
+  company: "SAP"
+  title: "Senior User Experience Designer"
+  bio: "I am a senior user experience designer within the central SAP design team. Before that, I worked for more than three years as an OpenUI5 engineer and was one of the drivers behind the open sourcing activities.
+With those two diverse backgrounds, I can understand the design as well as the development perspective.
+I have proven experience in holding workshops, trainings and talks on external events and conferences. Within SAP, I regularly conduct trainings about design and development related topics."
+  thumbnailUrl: schulyk.jpg
+  rockstar: true
+
+-
