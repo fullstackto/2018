@@ -44,3 +44,74 @@
   language: en
   complexity: "All"
 -
+  id: 004
+  title: "The Future of Front-End Performance"
+  description: "|
+    Help! My app bundle is 5MB! My users are angry that my app is so slow! It’s easy to forget that performance matters when we are under pressure to deliver features quickly. We will talk about bleeding-edge topics in front-end performance such as dual-bundles for modern browser transpiling, hijacking download/parse/compile/execute time, and not blocking the main thread. Come learn how to deliver better user experience with high-performing front-end apps using Webpack. This talk is library-agnostic (React, Angular, Vue, etc.)"
+  subtype: workshop
+  speakers: [13]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 005
+  title: "Technical Leadership Through the Underground Railroad"
+  description: "|
+    Software development has regularly borrowed processes and terminology from outside technology to improve how code gets to customers. For example, Scrum comes from rugby, and sprints come from track and field. However, history has been an often neglected source of insight for software development. The Underground Railroad was a system of pathways and people that provided a way for African-American slaves to escape to non-slave states and countries such as Canada and Mexico. The network stretched from Boston to Austin and consisted of self-organizing teams operating in conditions of extreme uncertainty who were tasked with shipping the most important product of all: freedom.
+
+    The Underground Railroad provides insights that technical leaders can use to improve their teams, products, and customer relationships. This talk will share timeless lessons of courage and leadership from the men and women who risked everything for the success of their teams."
+  subtype: workshop
+  speakers: [6]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 006
+  title: "Story telling with Git rebase"
+  description: "|
+    In a successful software development project, a key challenge is to manage complexity because projects get very complex very quickly even within small teams. Version control is the tool for communicating intent in our codebase over the life time of the project. Rebasing allows us to revise our development history before sharing it with the team.
+
+    Learn to use Git commit messages to keep track of the intent of your code changes to make it easier to make future changes. Learn how to make using feature branches less painful and more effective. Learn the mechanics of interactive rebasing, how to merge conflicts without losing precious code and how to auto-squash commits. Basically, stop fearing interactive rebasing."
+  subtype: workshop
+  speakers: [12]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 007
+  title: "Look what you MIDI me do!"
+  description: "|
+    Who loves pushing buttons? You? And you over there? And the person behind you? Oh wait, everyone loves it?!!? Of course they do, a button is irresistible. Now… what if I told you that you could hook up a LOT of buttons to your computer… and use it to do wild things with the web?
+
+    I’m glad you’re listening! Let’s take a journey into the Web MIDI api where the possibilities of the web aren’t just at your keyboard fingertips anymore, they’re literally any MIDI compatible controller you have connected! Want to make glitchy audio responsive visuals with WebGL shaders? Rad, we can do that. Want to create custom beats and have those input as a drum machine? No problem when you throw a little Web Audio API in the mix. Let’s dive in and find out how!"
+  subtype: workshop
+  speakers: [10]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 008
+  title: "Ethics of software development!"
+  description: "|
+    This presentation considers the Code of Conduct adopted by Association for Computing Machinery, and of raises a number of ethical questions related to the fields of IT and software development. We will discuss real-world cases of software producers facing ethical dilemmas, and how these dilemmas can be approached. The topics include considerations of privacy and information sharing, failing to deliver a service, security vulnerabilities and bugs, and building software that encourages evil behavior.
+
+    IT professionals wield a lot of power in today’s society. The ways technology influences society can be overt and subtle, immediate and long-lasting, bring out the best and the worst in people at large. We all need to be better informed to make ethical and moral choices in our work."
+  subtype: workshop
+  speakers: [9]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 009
+  title: "Building a Karaoke Machine with Angular and HTML5 Speech Recognition "
+  description: "|
+    I’ll start this entertaining presentation by showing you what I built and how fun it is to use. Then we’ll get into where karaoke machines came from and how I used its history to build a web-based version. Native browser APIs have come a long way and the evolution of the web as a native platform and its possibilities will floor your audience."
+  subtype: workshop
+  speakers: [7]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 010
+  title: "A stateless stateful service for cooperative filtering in Node.js"
+  description: "|
+    In a world dominated by R, Python and Scala, Node.js is commonly seen as incapable of performing the work required by recommendation engines. Netflix has challenged bright minds for many years to find the best collaborative filtering algorithm and many other companies developed powerful systems like Apache Spark. Is it possible to achieve the similar results but using a more lightweight and commonly-known language like Javascript? Philip II of Macedon defined 'Divide et Impera' as the strategy of success in politics and sociology. Applying the same principle to this problem, takes us to how to distribute and coordinate AI computations."
+  subtype: workshop
+  speakers: [14]
+  language: en
+  complexity: "Intermediate"
+-

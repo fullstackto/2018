@@ -25,3 +25,66 @@
   thumbnailUrl: schulyk.jpg
   rockstar: true
 -
+  id: 6
+  name: "Anjuan"
+  surname: "Simmons"
+  company: " "
+  title: " "
+  bio: "Anjuan Simmons is a technologist with a successful track record of delivering technology solutions from the user interface to the database. He is an energetic and informative speaker who presents at conferences, seminars, schools, and community centers around the world on topics including Agile software development, diversity, and leadership. Anjuan has an undergraduate degree in electrical engineering from the University of Texas at Austin and an MBA from Texas A&M University"
+  thumbnailUrl: tba.jpg
+  rockstar: true
+-
+  id: 7
+  name: "Sergio"
+  surname: "Cruz"
+  company: " "
+  title: " "
+  bio: "Sergio Cruz is a senior software developer who works regularly with all things JavaScript. He has a passion for teaching technical topics and loves exploring the latest web development trends."
+  thumbnailUrl: tba.jpg
+  rockstar: true
+-
+  id: 9
+  name: "Jane"
+  surname: " Prusakova"
+  company: " "
+  title: " "
+  bio: "I am a software architect and developer, an Agile proponent, and a great believer in building valuable software that users will love to use. I build large back-end systems that require high-performance and high-reliability, and process vast amounts of data. I believe that successful software is created by strong teams, requires good engineering practices, and evolves in close collaboration with the users. As a Principal Consultant for Improving Enterprises, I work with distributed teams on distributed software. As a consulting team, we focus on technical excellence, close contact with the client, and rapid iterations."
+  thumbnailUrl: tba.jpg
+  rockstar: true
+-
+  id: 10
+  name: "Rachel"
+  surname: " White"
+  company: " "
+  title: " "
+  bio: "Rachel White is a technologist, artist, and pretend-cyborg who is currently a Developer Experience Lead, member of the Node.js Community Committee, and co-host of the Changelog podcast JSParty. She is interested in new uses for old hardware, useless robots, VR/AR/MR, and bots. She has spoken internationally about Node.js, JavaScript, Creative Coding, IoT, Artificial Intelligence, NodeBots, and hardware. She’s a previous artist in residence at Pioneer Works where she worked on a series that visualized what modern cybernetic augmentation could look like with todays hardware and special effects makeup. Her other interests include glitch art, 80s horror, and indie games. Her aesthetic is fog machines, laser lights, and broken VHS tapes."
+  thumbnailUrl: tba.jpg
+  rockstar: true
+-
+  id: 12
+  name: "Elle"
+  surname: " Meridith"
+  company: " "
+  title: " "
+  bio: "Elle is a full stack web developer with more than ten years experience writing Ruby and Rails. Currently at Blackmill, previously she was Development Director at thoughtbot New York. Elle believes in writing clean code, driven by automatic tests, with agile practices, an even work/life balance, and a respectful and inclusive team culture. Recently, she developed and ran the apprenticeship program for Hooroo, up-skilling less experienced developers. When she is not immersed in the Ruby community, she is probably immersed in water, or lately, in bread flour."
+  thumbnailUrl: tba.jpg
+  rockstar: true
+-
+  id: 13
+  name: "Sia"
+  surname: " Karamalegos"
+  company: " "
+  title: " "
+  bio: "Sia Karamalegos is the founder and lead developer for Clio + Calliope Web Development. She has over 15 years of experience in technology, strategy, project management, and operations from small startups to large corporations across multiple industries, especially high-tech and education. She leverages her depth of experience with software engineering to build high-value applications."
+  thumbnailUrl: tba.jpg
+  rockstar: true
+-
+  id: 14
+  name: "Luca"
+  surname: "Maraschi"
+  company: " "
+  title: "Principal Architect"
+  bio: "Luca is a Principal Architect in the nearForm with an academical background in Physics and Artificial Intelligence designing compilers and programming languages for the game industry. He later shifted his focus to the Enterprise World, leading some of the largest Microsoft Dynamics CRM implementations. Coming from an entrepreneurial background, Luca has significant experience in the world of startups, and is responsible for both founding and advising a number of startups which later exited. Before joining nearForm, Luca led the architecture for the Digital Loyalty Platform in IceMobile (now part of LoyaltyOne) and started to contribute to Node core; he is currently an active member of the post-mortem working group and an active collaborator. Luca’s experience and wide range of interests have seen him become expert in the design of distributed architectures at scale, big data systems and in helping business and technology to grow or change."
+  thumbnailUrl: tba.jpg
+  rockstar: true
+-

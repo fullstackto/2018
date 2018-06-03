@@ -1,8 +1,8 @@
 -
   date: "2018-11-29"
-  dateReadable: "November 29"
+  dateReadable: "Leadership Summit Nov 28"
   tracks:
-    - {title: "Lectures", color: "#90be4e"}
+    - {title: "Lectures - Requires a Leadership Summit Ticket to attend", color: "#90be4e"}
   timeslots:
     - {
     	startTime: "9:00",
@@ -70,15 +70,15 @@
     	sessionIds: [001]
     }
 -
-  date: "2014-10-25"
-  dateReadable: "November 30"
+  date: "2018-11-29"
+  dateReadable: "FSTO Nov 29"
   tracks:
-    - {title: "Lectures", color: "#90be4e"}
+    - {title: "Lectures - Requires a conference ticket to attend", color: "#90be4e"}
   timeslots:
     - {
     	startTime: "9:00",
     	endTime: "9:45",
-    	sessionIds: [001]
+    	sessionIds: [005]
     }
     - {
     	startTime: "9:45",
@@ -98,7 +98,7 @@
     - {
     	startTime: "11:00",
     	endTime: "11:45",
-    	sessionIds: [001]
+    	sessionIds: [010]
     }
     - {
     	startTime: "11:45",
@@ -118,7 +118,7 @@
     - {
     	startTime: "1:45",
     	endTime: "2:30",
-    	sessionIds: [001]
+    	sessionIds: [003]
     }
     - {
     	startTime: "2:30",
@@ -138,5 +138,76 @@
     - {
     	startTime: "3:45",
     	endTime: "4:30",
+    	sessionIds: [007]
+    }
+-
+  date: "2014-10-25"
+  dateReadable: "November 30"
+  tracks:
+    - {title: "Lectures", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "9:00",
+    	endTime: "9:45",
+    	sessionIds: [008]
+    }
+    - {
+    	startTime: "9:45",
+    	endTime: "10:00",
+    	sessionIds: [307]
+    }
+    - {
+    	startTime: "10:00",
+    	endTime: "10:45",
+    	sessionIds: [006]
+    }
+    - {
+    	startTime: "10:45",
+    	endTime: "11:00",
+    	sessionIds: [307]
+    }
+    - {
+    	startTime: "11:00",
+    	endTime: "11:45",
     	sessionIds: [001]
+    }
+    - {
+    	startTime: "11:45",
+    	endTime: "12:45",
+    	sessionIds: [503]
+    }
+    - {
+    	startTime: "12:45",
+    	endTime: "1:30",
+    	sessionIds: [002]
+    }
+    - {
+    	startTime: "1:30",
+    	endTime: "1:45",
+    	sessionIds: [307]
+    }
+    - {
+    	startTime: "1:45",
+    	endTime: "2:30",
+    	sessionIds: [001]
+    }
+    - {
+    	startTime: "2:30",
+    	endTime: "2:45",
+    	sessionIds: [307]
+    }
+    - {
+    	startTime: "2:45",
+    	endTime: "3:30",
+    	sessionIds: [004]
+    }
+    - {
+    	startTime: "3:30",
+    	endTime: "3:45",
+    	sessionIds: [307]
+    }
+    - {
+    	startTime: "3:45",
+    	endTime: "4:30",
+    	sessionIds: [009]
     }

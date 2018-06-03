@@ -1,5 +1,5 @@
 # Plugins
-gems:
+plugins:
 - jekyll-sitemap
 safe: false
 
@@ -65,7 +65,7 @@ heroButtons:
 aboutTitle: "The Full Stack Toronto Experience"
 aboutBlock:
  - {title: "Diversity & Inclusion", image: "conference.jpg", text: "#fstoco is organized by a diverse group of individuals, and seeks to have a diverse line-up of speakers. We make sure that our event is a safe space for learning including gender non-binary washrooms and an enforced code of conduct. We also take great pride in attracting attendees from all around the world. Toronto is diverse and so should it’s leading tech event!" }
- - {title: "Curated Content", image: "workshop.jpg", text: "Our planning process starts with great quality content, we carefully select topics that you can go right back to work and start integrating into your existing stack. Those topics are laid out in the schedule so you get exposed to more than just your specialization and stack, then find amazing speakers to talk in those spots. This is a lot different than the traditional CFP process." }
+ - {title: "Curated Content", image: "hackathon.jpg", text: "Our planning process starts with great quality content, we carefully select topics that you can go right back to work and start integrating into your existing stack. Those topics are laid out in the schedule so you get exposed to more than just your specialization and stack, then find amazing speakers to talk in those spots. This is a lot different than the traditional CFP process." }
  - {title: "Networking", image: "workshop.jpg", text: "We design our networking around breaking down barriers. We offer you a space on your name tag to put your passion so someone else can make that first intro, we’ve put games, lego, and other icebreakers around the venue so you can come together over a common task to feel less interrogated and a mix of designers and developers at the event spurs amazing conversations!" }
 
 # Statistic Block
@@ -129,41 +129,42 @@ subscribeInfo: "Registration will be open around end of July. Number of tickets 
 
 # Tickets Block
 ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price. We do not provide visas"
+ticketsInfo: "You can attend both our Bifrost Leadership Summit, and/or the Full Stack Toronto conference. Tickets include coffee breaks and lunch. Accommodation is NOT included in the ticket price. We do not provide visas"
 ticketsOffers:
  -
-  name: "Last Chance"
-  price: "499"
+  name: "Leadership Summit"
+  price: "99"
   priceCurrency: "CAD"
-  ticketsNumber: "0"
+  ticketsNumber: "150"
   ribbon: ""
   buyButtonLink: "https://ti.to/fstoco/2018"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Light Breakfast, Lunch", "Swag", "Recordings of Sessions"]
-  validFrom: "2018-08-01T00:00"
+  ticketContentList: ["Nov 28", "Lunch", "Swag", "Recordings of Sessions"]
+  validFrom: "2018-06-01T00:00"
   validThrough: "2018-11-13T23:59"
-  disabled: true
+  disabled: false
+  additionalInfo: "Add an extra day before Full Stack Toronto to attend our leadership summit for tech leads, team leads, managers, cto's and those who want to become one! **This does NOT include admission to the two day conference**"
  -
-  name: "Early Bird"
+  name: "Conference Ticket"
   price: "299"
   priceCurrency: "CAD"
-  ticketsNumber: "300"
+  ticketsNumber: "250"
   ribbon: ""
   featured: true
   buyButtonLink: "https://ti.to/fstoco/2018"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Light Breakfast, Lunch", "Swag", "Recordings of Sessions"]
+  ticketContentList: ["Nov 29-30", "Lunch", "Swag", "Recordings of Sessions"]
   validFrom: "2018-04-25T10:00"
-  validThrough: "2018-11-01T23:59"
+  validThrough: "2018-11-03T23:59"
   disabled: false
  -
   name: "Student/NPO"
   price: "99"
   priceCurrency: "CAD"
-  ticketsNumber: "100"
+  ticketsNumber: "50"
   buyButtonLink: "https://ti.to/fstoco/2018"
   buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID to be emailed to registration@fsto.co"
+  additionalInfo: "Student and NPO discount ticket for the conference. Requires a valid student ID to be emailed to registration@fsto.co"
   ticketContentList: ["Light Breakfast, Lunch", "Swag", "Networking"]
   validFrom: "2018-04-25T10:00"
   validThrough: "2018-11-14T23:59"
