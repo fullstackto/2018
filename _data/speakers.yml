@@ -49,7 +49,7 @@
   company: " "
   title: " "
   bio: "I am a software architect and developer, an Agile proponent, and a great believer in building valuable software that users will love to use. I build large back-end systems that require high-performance and high-reliability, and process vast amounts of data. I believe that successful software is created by strong teams, requires good engineering practices, and evolves in close collaboration with the users. As a Principal Consultant for Improving Enterprises, I work with distributed teams on distributed software. As a consulting team, we focus on technical excellence, close contact with the client, and rapid iterations."
-  thumbnailUrl: tba.jpg
+  thumbnailUrl: jane.jpg
   rockstar: true
 -
   id: 10
@@ -63,11 +63,11 @@
 -
   id: 12
   name: "Elle"
-  surname: " Meridith"
-  company: " "
-  title: " "
-  bio: "Elle is a full stack web developer with more than ten years experience writing Ruby and Rails. Currently at Blackmill, previously she was Development Director at thoughtbot New York. Elle believes in writing clean code, driven by automatic tests, with agile practices, an even work/life balance, and a respectful and inclusive team culture. Recently, she developed and ran the apprenticeship program for Hooroo, up-skilling less experienced developers. When she is not immersed in the Ruby community, she is probably immersed in water, or lately, in bread flour."
-  thumbnailUrl: tba.jpg
+  surname: "Meredith"
+  company: "Blackmill"
+  title: “Consultant"
+  bio: "Elle is a full stack web developer with more than ten years experience writing Ruby and Rails. Currently at Blackmill, previously she was Development Director at thoughtbot New York. Elle believes in writing clean code, driven by automatic tests, with agile practices, an even work/life balance, and a respectful and inclusive team culture. Recently, she developed and ran the apprenticeship program, up-skilling less experienced developers. When she is not immersed in the Ruby community, she is probably immersed in water, or lately, in bread flour."
+  thumbnailUrl: elle.jpg
   rockstar: true
 -
   id: 13
