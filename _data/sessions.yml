@@ -87,11 +87,8 @@
   complexity: "Intermediate"
 -
   id: 008
-  title: "Ethics of software development!"
-  description: "|
-    This presentation considers the Code of Conduct adopted by Association for Computing Machinery, and of raises a number of ethical questions related to the fields of IT and software development. We will discuss real-world cases of software producers facing ethical dilemmas, and how these dilemmas can be approached. The topics include considerations of privacy and information sharing, failing to deliver a service, security vulnerabilities and bugs, and building software that encourages evil behavior.
-
-    IT professionals wield a lot of power in today’s society. The ways technology influences society can be overt and subtle, immediate and long-lasting, bring out the best and the worst in people at large. We all need to be better informed to make ethical and moral choices in our work."
+  title: "Ethics of software development"
+  description: "Software has a lot of power to influence people’s lives and to encourage social change. With great power comes great responsibility. It is up to individuals involved in building software to decide what is right, ethical and moral, and these are not easy decisions."
   subtype: workshop
   speakers: [9]
   language: en
