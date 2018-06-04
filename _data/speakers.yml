@@ -31,7 +31,7 @@
   company: " "
   title: " "
   bio: "Anjuan Simmons is a technologist with a successful track record of delivering technology solutions from the user interface to the database. He is an energetic and informative speaker who presents at conferences, seminars, schools, and community centers around the world on topics including Agile software development, diversity, and leadership. Anjuan has an undergraduate degree in electrical engineering from the University of Texas at Austin and an MBA from Texas A&M University"
-  thumbnailUrl: tba.jpg
+  thumbnailUrl: anjuan.jpg
   rockstar: true
 -
   id: 7
@@ -40,7 +40,7 @@
   company: " "
   title: " "
   bio: "Sergio Cruz is a senior software developer who works regularly with all things JavaScript. He has a passion for teaching technical topics and loves exploring the latest web development trends."
-  thumbnailUrl: tba.jpg
+  thumbnailUrl: sergio.jpg
   rockstar: true
 -
   id: 9
@@ -58,7 +58,7 @@
   company: " "
   title: " "
   bio: "Rachel White is a technologist, artist, and pretend-cyborg who is currently a Developer Experience Lead, member of the Node.js Community Committee, and co-host of the Changelog podcast JSParty. She is interested in new uses for old hardware, useless robots, VR/AR/MR, and bots. She has spoken internationally about Node.js, JavaScript, Creative Coding, IoT, Artificial Intelligence, NodeBots, and hardware. She’s a previous artist in residence at Pioneer Works where she worked on a series that visualized what modern cybernetic augmentation could look like with todays hardware and special effects makeup. Her other interests include glitch art, 80s horror, and indie games. Her aesthetic is fog machines, laser lights, and broken VHS tapes."
-  thumbnailUrl: tba.jpg
+  thumbnailUrl: rachel.jpg
   rockstar: true
 -
   id: 12
@@ -76,7 +76,7 @@
   company: " "
   title: " "
   bio: "Sia Karamalegos is the founder and lead developer for Clio + Calliope Web Development. She has over 15 years of experience in technology, strategy, project management, and operations from small startups to large corporations across multiple industries, especially high-tech and education. She leverages her depth of experience with software engineering to build high-value applications."
-  thumbnailUrl: tba.jpg
+  thumbnailUrl: sia.jpg
   rockstar: true
 -
   id: 14
@@ -85,7 +85,7 @@
   company: " "
   title: "Principal Architect"
   bio: "Luca is a Principal Architect in the nearForm with an academical background in Physics and Artificial Intelligence designing compilers and programming languages for the game industry. He later shifted his focus to the Enterprise World, leading some of the largest Microsoft Dynamics CRM implementations. Coming from an entrepreneurial background, Luca has significant experience in the world of startups, and is responsible for both founding and advising a number of startups which later exited. Before joining nearForm, Luca led the architecture for the Digital Loyalty Platform in IceMobile (now part of LoyaltyOne) and started to contribute to Node core; he is currently an active member of the post-mortem working group and an active collaborator. Luca’s experience and wide range of interests have seen him become expert in the design of distributed architectures at scale, big data systems and in helping business and technology to grow or change."
-  thumbnailUrl: tba.jpg
+  thumbnailUrl: luca.jpg
   rockstar: true
 -
   id: 15
@@ -94,6 +94,5 @@
   company: "Sellpoints"
   title: "Front End Engineer"
   bio: "Michael is a Front End Engineer at Sellpoints, specializing in Angular, Firebase and Progressive Web Apps. Working with Angular since the early betas, Michael has introduced and worked with various companies in developing their applications with Angular or training them in best practices. Michael has also spoken at Angular meetups and conferences, including Angular NYC, Techduels, and the United Nations. Michael’s dream side project is a MaaS (Memes as a Service) platform for meme delivery by mail."
-  thumbnailUrl: tba.jpg
+  thumbnailUrl: michael.jpg
   rockstar: true
--
