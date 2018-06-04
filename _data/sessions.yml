@@ -112,3 +112,11 @@
   language: en
   complexity: "Intermediate"
 -
+  id: 011
+  title: "Scaling Angular: Major Keys To Success"
+  description: "You’ve made your first app, or maybe you’ve even been working with Angular for the past year now. Still, there’s something missing and you can’t put your finger on… How can you take your applications to the next level? What’s this lazy loading I hear about? Do I really have to subscribe to all my Observables? Man, how can I make my apps run faster? That’s ok, we’re going to drop some major KEYS to building your apps. Now that you’ve made a few components, have gotten routing figured out in your apps, it’s time to step up your ng-game! Learn about the best practices and ways to make fast and large Angular applications like a pro."
+  subtype: workshop
+  speakers: [15]
+  language: en
+  complexity: "Beginner/Intermediate"
+-
