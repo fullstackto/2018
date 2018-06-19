@@ -6,6 +6,7 @@
   title: "Principal Software Consultant & Developer"
   bio: "Drew Colthorp is a principal consultant and Rachael McQuater is a developer at Atomic Object. Drew has been seeking out better ways to write JavaScript for 20 years, and Rachael is just getting started with the same. We’re both really excited about the power and beauty of software that closely models complex real-world problem domains. Together we’re working to share what we’ve learned about building more robust, powerful, easy-to-write code with TypeScript."
   thumbnailUrl: drew.jpg
+  rockstar: false
 -
   id: 2
   name: "Rachael"
@@ -14,14 +15,7 @@
   title: "Software Consultant & Developer"
   bio: "Drew Colthorp is a principal consultant and Rachael McQuater is a developer at Atomic Object. Drew has been seeking out better ways to write JavaScript for 20 years, and Rachael is just getting started with the same. We’re both really excited about the power and beauty of software that closely models complex real-world problem domains. Together we’re working to share what we’ve learned about building more robust, powerful, easy-to-write code with TypeScript."
   thumbnailUrl: rachelmiller.jpg
--
-  id: 99
-  name: "Coming Soon"
-  surname: "Coming Soon"
-  company: "TBA"
-  title: "TBA"
-  bio: "TBA"
-  thumbnailUrl: tba.jpg
+  rockstar: true
 -
   id: 4
   name: "James"
@@ -30,7 +24,7 @@
   title: "Technical Lead"
   bio: "James Bowes is the Technical Lead at Manifold. Over his 13 year career he has worked for companies like Red Hat and Salesforce as a senior member of the technical staff. James has scaled early stage startups and also managed and sustained large organizations. James is mainly a backend developer, focusing on thorny concurrency issues, but whenever he can, he likes to build infrastructure, try out cool new software, help his peers learn, and make people laugh."
   thumbnailUrl: jbowes.jpg
-  rockstar: true
+  rockstar: false
 -
   id: 5
   name: "Schulyk"
@@ -57,7 +51,7 @@
   title: " "
   bio: "Sergio Cruz is a senior software developer who works regularly with all things JavaScript. He has a passion for teaching technical topics and loves exploring the latest web development trends."
   thumbnailUrl: sergio.jpg
-  rockstar: true
+  rockstar: false
 -
   id: 9
   name: "Jane"
@@ -93,7 +87,7 @@
   title: "Principal Architect"
   bio: "Luca is a Principal Architect in the nearForm with an academical background in Physics and Artificial Intelligence designing compilers and programming languages for the game industry. He later shifted his focus to the Enterprise World, leading some of the largest Microsoft Dynamics CRM implementations. Coming from an entrepreneurial background, Luca has significant experience in the world of startups, and is responsible for both founding and advising a number of startups which later exited. Before joining nearForm, Luca led the architecture for the Digital Loyalty Platform in IceMobile (now part of LoyaltyOne) and started to contribute to Node core; he is currently an active member of the post-mortem working group and an active collaborator. Luca’s experience and wide range of interests have seen him become expert in the design of distributed architectures at scale, big data systems and in helping business and technology to grow or change."
   thumbnailUrl: luca.jpg
-  rockstar: true
+  rockstar: false
 -
   id: 15
   name: "Michael"
@@ -102,7 +96,7 @@
   title: "Front End Engineer"
   bio: "Michael is a Front End Engineer at Sellpoints, specializing in Angular, Firebase and Progressive Web Apps. Working with Angular since the early betas, Michael has introduced and worked with various companies in developing their applications with Angular or training them in best practices. Michael has also spoken at Angular meetups and conferences, including Angular NYC, Techduels, and the United Nations. Michael’s dream side project is a MaaS (Memes as a Service) platform for meme delivery by mail."
   thumbnailUrl: michael.jpg
-  rockstar: true
+  rockstar: false
 -
   id: 16
   name: "Joe"
@@ -111,7 +105,7 @@
   title: "Technical Lead"
   bio: "Joe Karlsson is Minneapolis based JavaScript Engineer at Best Buy and international technology speaker and educator.  He is the creator of weird software, including bechdel.io which tells you if a movie script passes the Bechdel Test or not.  Joe is interested in the Digital Humanities and food."
   thumbnailUrl: joe.jpg
-  rockstar: true
+  rockstar: false
 -
   id: 17
   name: "Lachlan"
@@ -121,7 +115,7 @@
   bio: "Lachlan has both been making web sites and applications for nearly twenty years. A front-end dev by trade, he values semantic, standards-compliant, front-end code and well-tested back-ends with minimal technical debt. He prefers autonomous low-process (but *some* process) project workflows where every team member is expected to contribute to direction and decision-making.
 Lachlan serves on the committee of Ruby Australia, a non-profit dedicated to supporting the Ruby programming community in Australia and has run dozens of community events. He works at Blackmill, a consultancy focused on improving software engineering practices."
   thumbnailUrl: lachlan.jpg
-  rockstar: true
+  rockstar: false
 -
   id: 18
   name: "Bojan"
@@ -129,8 +123,8 @@ Lachlan serves on the committee of Ruby Australia, a non-profit dedicated to sup
   company: "Cvent"
   title: "Lead Software Engineer"
   bio: "I am a Lead Software Engineer at Cvent, an event management software company that makes software solutions for conventions and conferences not unlike this one. In addition I like to attend local developer group meetups, and hack with JavaScript and Go. When not on a computer I enjoy Ultimate Frisbee, and being confused for my identical twin brother."
-  thumbnailUrl: tba.jpg
-  rockstar: true
+  thumbnailUrl: bojand.jpg
+  rockstar: false
 -
   id: 19
   name: "Joe"
@@ -139,7 +133,7 @@ Lachlan serves on the committee of Ruby Australia, a non-profit dedicated to sup
   title: "JavaScript Engineer"
   bio: "Joe Karlsson is Minneapolis based JavaScript Engineer at Best Buy and international technology speaker and educator. He is the creator of weird software, including bechdel.io, which tells you if a movie script passes the Bechdel Test or not. Joe is interested in the Digital Humanities and food."
   thumbnailUrl: tba.jpg
-  rockstar: true
+  rockstar: false
 -
   id: 20
   name: "Michael"
@@ -148,4 +142,13 @@ Lachlan serves on the committee of Ruby Australia, a non-profit dedicated to sup
   title: "Front End Engineer"
   bio: "Michael is a Front End Engineer at Sellpoints, specializing in Angular, Firebase and Progressive Web Apps. Working with Angular since the early betas, Michael has introduced and worked with various companies in developing their applications with Angular or training them in best practices. Michael has also spoken at Angular meetups and conferences, including Angular NYC, Techduels, and the United Nations. Michael’s dream side project is a MaaS (Memes as a Service) platform for meme delivery by mail."
   thumbnailUrl: tba.jpg
-  rockstar: true
+  rockstar: false
+-
+  id: 99
+  name: "Coming Soon"
+  surname: "Coming Soon"
+  company: "TBA"
+  title: "TBA"
+  bio: "TBA"
+  thumbnailUrl: tba.jpg
+  rockstar: false
