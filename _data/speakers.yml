@@ -1,5 +1,21 @@
 -
-  id: 3
+  id: 2
+  name: "Drew"
+  surname: "Colthorp"
+  company: "Atomic Object"
+  title: "Principal Software Consultant & Developer"
+  bio: "Drew Colthorp is a principal consultant and Rachael McQuater is a developer at Atomic Object. Drew has been seeking out better ways to write JavaScript for 20 years, and Rachael is just getting started with the same. We’re both really excited about the power and beauty of software that closely models complex real-world problem domains. Together we’re working to share what we’ve learned about building more robust, powerful, easy-to-write code with TypeScript."
+  thumbnailUrl: drew.jpg
+-
+  id: 2
+  name: "Rachael"
+  surname: "McQuater"
+  company: "Atomic Object"
+  title: "Software Consultant & Developer"
+  bio: "Drew Colthorp is a principal consultant and Rachael McQuater is a developer at Atomic Object. Drew has been seeking out better ways to write JavaScript for 20 years, and Rachael is just getting started with the same. We’re both really excited about the power and beauty of software that closely models complex real-world problem domains. Together we’re working to share what we’ve learned about building more robust, powerful, easy-to-write code with TypeScript."
+  thumbnailUrl: rachelmiller.jpg
+-
+  id: 99
   name: "Coming Soon"
   surname: "Coming Soon"
   company: "TBA"
@@ -52,15 +68,6 @@
   thumbnailUrl: jane.jpg
   rockstar: true
 -
-  id: 10
-  name: "Rachel"
-  surname: " White"
-  company: " "
-  title: " "
-  bio: "Rachel White is a technologist, artist, and pretend-cyborg who is currently a Developer Experience Lead, member of the Node.js Community Committee, and co-host of the Changelog podcast JSParty. She is interested in new uses for old hardware, useless robots, VR/AR/MR, and bots. She has spoken internationally about Node.js, JavaScript, Creative Coding, IoT, Artificial Intelligence, NodeBots, and hardware. She’s a previous artist in residence at Pioneer Works where she worked on a series that visualized what modern cybernetic augmentation could look like with todays hardware and special effects makeup. Her other interests include glitch art, 80s horror, and indie games. Her aesthetic is fog machines, laser lights, and broken VHS tapes."
-  thumbnailUrl: rachel.jpg
-  rockstar: true
--
   id: 12
   name: "Elle"
   surname: "Meredith"
@@ -104,4 +111,41 @@
   title: "Technical Lead"
   bio: "Joe Karlsson is Minneapolis based JavaScript Engineer at Best Buy and international technology speaker and educator.  He is the creator of weird software, including bechdel.io which tells you if a movie script passes the Bechdel Test or not.  Joe is interested in the Digital Humanities and food."
   thumbnailUrl: joe.jpg
+  rockstar: true
+-
+  id: 17
+  name: "Lachlan"
+  surname: "Hardy"
+  company: "Blackmill"
+  title: “Consultant"
+  bio: "Lachlan has both been making web sites and applications for nearly twenty years. A front-end dev by trade, he values semantic, standards-compliant, front-end code and well-tested back-ends with minimal technical debt. He prefers autonomous low-process (but *some* process) project workflows where every team member is expected to contribute to direction and decision-making.
+Lachlan serves on the committee of Ruby Australia, a non-profit dedicated to supporting the Ruby programming community in Australia and has run dozens of community events. He works at Blackmill, a consultancy focused on improving software engineering practices."
+  thumbnailUrl: lachlan.jpg
+  rockstar: true
+-
+  id: 18
+  name: "Bojan"
+  surname: "Djurkovic"
+  company: "Cvent"
+  title: "Lead Software Engineer"
+  bio: "I am a Lead Software Engineer at Cvent, an event management software company that makes software solutions for conventions and conferences not unlike this one. In addition I like to attend local developer group meetups, and hack with JavaScript and Go. When not on a computer I enjoy Ultimate Frisbee, and being confused for my identical twin brother."
+  thumbnailUrl: tba.jpg
+  rockstar: true
+-
+  id: 19
+  name: "Joe"
+  surname: "Karlsson"
+  company: "Best Buy"
+  title: "JavaScript Engineer"
+  bio: "Joe Karlsson is Minneapolis based JavaScript Engineer at Best Buy and international technology speaker and educator. He is the creator of weird software, including bechdel.io, which tells you if a movie script passes the Bechdel Test or not. Joe is interested in the Digital Humanities and food."
+  thumbnailUrl: tba.jpg
+  rockstar: true
+-
+  id: 20
+  name: "Michael"
+  surname: "Solati"
+  company: "Sellpoints"
+  title: "Front End Engineer"
+  bio: "Michael is a Front End Engineer at Sellpoints, specializing in Angular, Firebase and Progressive Web Apps. Working with Angular since the early betas, Michael has introduced and worked with various companies in developing their applications with Angular or training them in best practices. Michael has also spoken at Angular meetups and conferences, including Angular NYC, Techduels, and the United Nations. Michael’s dream side project is a MaaS (Memes as a Service) platform for meme delivery by mail."
+  thumbnailUrl: tba.jpg
   rockstar: true
