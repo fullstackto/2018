@@ -144,6 +144,24 @@ Lachlan serves on the committee of Ruby Australia, a non-profit dedicated to sup
   thumbnailUrl: tba.jpg
   rockstar: false
 -
+  id: 21
+  name: "Hilary"
+  surname: "Stohs-Krause"
+  company: "Ten Forward Consulting "
+  title: "Full-Stack Software Developer"
+  bio: "Hilary Stohs-Krause is a full-stack software developer at Ten Forward Consulting in Madison, WI. She came to tech by way of childhood website-building. Before joining Ten Forward, she spent several years as a professional journalist. Hilary volunteers regularly with several tech and community organizations, and co-runs Madison Women in Tech, a local group with more than 1,200 members. She loves board games, garlic-stuffed olives and bourbon barrel-aged stouts. She’ll read any fantasy or sci-fi she can get her hands on. She tweets puns and intersectional feminism at @hilarysk."
+  thumbnailUrl: hilary.jpg
+  rockstar: true
+-
+  id: 22
+  name: "Ankita"
+  surname: "Kulkarni"
+  company: "Rangle.io"
+  title: "Software Developer"
+  bio: "Ankita started her career in software development as a contractor helping small businesses develop their apps. She is currently a software developer at Rangle.io in Toronto focussed on building web applications for clients using modern javascript. Prior to Rangle.io, she was at IBM, Canada working at IBM Cloud Garage building web and mobile applications using artificial intelligence, IoT, modern JavaScript and native languages for about 4 years. Ankita has helped several organizations adopt the Devops culture shift and works a lot with clients. For fun, Ankita has been playing Trampoline dodgeball since January, 2015 and enjoys swimming a lot."
+  thumbnailUrl: tba.jpg
+  rockstar: true
+-
   id: 99
   name: "Coming Soon"
   surname: "Coming Soon"

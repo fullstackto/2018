@@ -142,6 +142,14 @@
   complexity: "Intermediate"
 -
   id: 015
+  title: "Let's Fight: Redux side effects showdown"
+  description: "Even in today’s world, handling asynchronous tasks is hard. There are several ways to handle them, but is there a single best way? Redux is the preferred state management pattern in apps today. By taking a basic example of login, we will compare the two in a showdown format and see the differences."
+  subtype: workshop
+  speakers: [22]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 016
   title: "Scaling Angular: Major Keys To Success"
   description: "Many Angular talks introduce cool concepts that usually require planning or additional time to implement. How about some Major Keys any developer can implement in an hour? Taking any beginner or intermediate developer to the next level. With better use of Observables, lazy loading, and PWAs you can!"
   subtype: workshop
@@ -170,5 +178,13 @@
   description: "Whether you’re a Tech Lead, Engineering Manager, or Project Manager for an engineering team, you probably weren’t handed an instruction manual when you were given your first team to lead. This talk will show you how to apply the principles in the Agile Manifesto to become a better leader."
   subtype: workshop
   speakers: [6]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 104
+  title: "Beer, bylines and booleans: How the service sector and liberal arts can secretly prepare folks for tech careers"
+  description: "A liberal arts or service sector background might seem irrelevant for coding; what does the humanities have to do with hashes? What do cocktails have to do with CSS? In fact, non-technical backgrounds point to secret superpowers that are increasingly valuable for technical positions."
+  subtype: workshop
+  speakers: [21]
   language: en
   complexity: "Intermediate"
