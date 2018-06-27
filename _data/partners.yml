@@ -2,3 +2,4 @@
   group: "Special Thanks"
   elements:
     - {name: "Tito", description: "Tito", link: "http://ti.to", imageUrl: "tito-machine.jpg"}
+    - {name: "Intelliware", description: "Intelliware", link: "http://www.intelliware.com/", imageUrl: "intelliware.jpg"}

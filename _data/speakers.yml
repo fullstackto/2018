@@ -48,7 +48,8 @@
   name: "Sergio"
   surname: "Cruz"
   company: " "
-  title: " "
+  title: " "l
+
   bio: "Sergio Cruz is a senior software developer who works regularly with all things JavaScript. He has a passion for teaching technical topics and loves exploring the latest web development trends."
   thumbnailUrl: sergio.jpg
   rockstar: false
@@ -159,7 +160,7 @@ Lachlan serves on the committee of Ruby Australia, a non-profit dedicated to sup
   company: "Rangle.io"
   title: "Software Developer"
   bio: "Ankita started her career in software development as a contractor helping small businesses develop their apps. She is currently a software developer at Rangle.io in Toronto focussed on building web applications for clients using modern javascript. Prior to Rangle.io, she was at IBM, Canada working at IBM Cloud Garage building web and mobile applications using artificial intelligence, IoT, modern JavaScript and native languages for about 4 years. Ankita has helped several organizations adopt the Devops culture shift and works a lot with clients. For fun, Ankita has been playing Trampoline dodgeball since January, 2015 and enjoys swimming a lot."
-  thumbnailUrl: tba.jpg
+  thumbnailUrl: ankita.jpg
   rockstar: true
 -
   id: 99
