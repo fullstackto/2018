@@ -126,15 +126,6 @@ Lachlan serves on the committee of Ruby Australia, a non-profit dedicated to sup
   thumbnailUrl: bojand.jpg
   rockstar: false
 -
-  id: 19
-  name: "Joe"
-  surname: "Karlsson"
-  company: "Best Buy"
-  title: "JavaScript Engineer"
-  bio: "Joe Karlsson is Minneapolis based JavaScript Engineer at Best Buy and international technology speaker and educator. He is the creator of weird software, including bechdel.io, which tells you if a movie script passes the Bechdel Test or not. Joe is interested in the Digital Humanities and food."
-  thumbnailUrl: tba.jpg
-  rockstar: false
--
   id: 20
   name: "Michael"
   surname: "Solati"

@@ -137,7 +137,7 @@
   title: "Building High Performance React Applications"
   description: "React is built with performance in mind. But when is React slow? In this talk we’ll discuss common bottlenecks in React and when you might be making your program work harder than it should. You will learn practical ways to speed up your real world React applications today."
   subtype: workshop
-  speakers: [19]
+  speakers: [20]
   language: en
   complexity: "Intermediate"
 -
