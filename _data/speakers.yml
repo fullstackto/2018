@@ -27,8 +27,8 @@
   rockstar: false
 -
   id: 5
-  name: "Schulyk"
-  surname: "Janina"
+  name: "Janina"
+  surname: "Schulyk"
   company: "SAP"
   title: "Senior User Experience Designer"
   bio: "I am a senior user experience designer within the central SAP design team. Before that, I worked for more than three years as an OpenUI5 engineer and was one of the drivers behind the open sourcing activities. | With those two diverse backgrounds, I can understand the design as well as the development perspective. | I have proven experience in holding workshops, trainings and talks on external events and conferences. Within SAP, I regularly conduct trainings about design and development related topics."
@@ -126,15 +126,6 @@ Lachlan serves on the committee of Ruby Australia, a non-profit dedicated to sup
   thumbnailUrl: bojand.jpg
   rockstar: false
 -
-  id: 20
-  name: "Michael"
-  surname: "Solati"
-  company: "Sellpoints"
-  title: "Front End Engineer"
-  bio: "Michael is a Front End Engineer at Sellpoints, specializing in Angular, Firebase and Progressive Web Apps. Working with Angular since the early betas, Michael has introduced and worked with various companies in developing their applications with Angular or training them in best practices. Michael has also spoken at Angular meetups and conferences, including Angular NYC, Techduels, and the United Nations. Michael’s dream side project is a MaaS (Memes as a Service) platform for meme delivery by mail."
-  thumbnailUrl: tba.jpg
-  rockstar: false
--
   id: 21
   name: "Hilary"
   surname: "Stohs-Krause"
@@ -151,6 +142,15 @@ Lachlan serves on the committee of Ruby Australia, a non-profit dedicated to sup
   title: "Software Developer"
   bio: "Ankita started her career in software development as a contractor helping small businesses develop their apps. She is currently a software developer at Rangle.io in Toronto focussed on building web applications for clients using modern javascript. Prior to Rangle.io, she was at IBM, Canada working at IBM Cloud Garage building web and mobile applications using artificial intelligence, IoT, modern JavaScript and native languages for about 4 years. Ankita has helped several organizations adopt the Devops culture shift and works a lot with clients. For fun, Ankita has been playing Trampoline dodgeball since January, 2015 and enjoys swimming a lot."
   thumbnailUrl: ankita.jpg
+  rockstar: true
+-
+  id: 25
+  name: "Ronda "
+  surname: "Bergman"
+  company: ""
+  title: ""
+  bio: "Ronda has been working as a software developer for 18+ years, primarily in the .NET stack. She has worked for large multi-national organizations and small startups. She is the Co-founder and lead consultant of EllaVatec, a diversity and inclusion consultancy. The Co-founder and Chapter Leader of Girl Develop It Ann Arbor. A Software Artisan at Pillar Technologies, and the Vice President of Ann Arbor .NET Developers. As a female developer and the mother of 2 female developers she is working hard to help level the playing field for everyone in the industry."
+  thumbnailUrl: ronda.jpg
   rockstar: true
 -
   id: 99

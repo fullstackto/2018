@@ -20,8 +20,7 @@
 -
   id: 002
   title: "Building APIs for an unreliable world"
-  description: "|
-    Networks and computing systems are unreliable. Connections drop or slow to
+  description: "Networks and computing systems are unreliable. Connections drop or slow to
     a crawl. Hard drives break and systems turn off without warning. These
     issues affect public and private APIs alike, but can spell disaster for
     microservices, as unreliability can lead to inconsistency.
@@ -46,8 +45,7 @@
 -
   id: 004
   title: "The Future of Front-End Performance"
-  description: "|
-    Help! My app bundle is 5MB! My users are angry that my app is so slow! It’s easy to forget that performance matters when we are under pressure to deliver features quickly. We will talk about bleeding-edge topics in front-end performance such as dual-bundles for modern browser transpiling, hijacking download/parse/compile/execute time, and not blocking the main thread. Come learn how to deliver better user experience with high-performing front-end apps using Webpack. This talk is library-agnostic (React, Angular, Vue, etc.)"
+  description: "Help! My app bundle is 5MB! My users are angry that my app is so slow! It’s easy to forget that performance matters when we are under pressure to deliver features quickly. We will talk about bleeding-edge topics in front-end performance such as dual-bundles for modern browser transpiling, hijacking download/parse/compile/execute time, and not blocking the main thread. Come learn how to deliver better user experience with high-performing front-end apps using Webpack. This talk is library-agnostic (React, Angular, Vue, etc.)"
   subtype: workshop
   speakers: [13]
   language: en
@@ -55,8 +53,7 @@
 -
   id: 005
   title: "Technical Leadership Through the Underground Railroad"
-  description: "|
-    Software development has regularly borrowed processes and terminology from outside technology to improve how code gets to customers. For example, Scrum comes from rugby, and sprints come from track and field. However, history has been an often neglected source of insight for software development. The Underground Railroad was a system of pathways and people that provided a way for African-American slaves to escape to non-slave states and countries such as Canada and Mexico. The network stretched from Boston to Austin and consisted of self-organizing teams operating in conditions of extreme uncertainty who were tasked with shipping the most important product of all: freedom.
+  description: "Software development has regularly borrowed processes and terminology from outside technology to improve how code gets to customers. For example, Scrum comes from rugby, and sprints come from track and field. However, history has been an often neglected source of insight for software development. The Underground Railroad was a system of pathways and people that provided a way for African-American slaves to escape to non-slave states and countries such as Canada and Mexico. The network stretched from Boston to Austin and consisted of self-organizing teams operating in conditions of extreme uncertainty who were tasked with shipping the most important product of all: freedom.
 
     The Underground Railroad provides insights that technical leaders can use to improve their teams, products, and customer relationships. This talk will share timeless lessons of courage and leadership from the men and women who risked everything for the success of their teams."
   subtype: workshop
@@ -66,8 +63,7 @@
 -
   id: 006
   title: "Story telling with Git rebase"
-  description: "|
-    In a successful software development project, a key challenge is to manage complexity because projects get very complex very quickly even within small teams. Version control is the tool for communicating intent in our codebase over the life time of the project. Rebasing allows us to revise our development history before sharing it with the team.
+  description: "In a successful software development project, a key challenge is to manage complexity because projects get very complex very quickly even within small teams. Version control is the tool for communicating intent in our codebase over the life time of the project. Rebasing allows us to revise our development history before sharing it with the team.
 
     Learn to use Git commit messages to keep track of the intent of your code changes to make it easier to make future changes. Learn how to make using feature branches less painful and more effective. Learn the mechanics of interactive rebasing, how to merge conflicts without losing precious code and how to auto-squash commits. Basically, stop fearing interactive rebasing."
   subtype: workshop
@@ -133,27 +129,11 @@
   language: en
   complexity: "Intermediate"
 -
-  id: 014
-  title: "Building High Performance React Applications"
-  description: "React is built with performance in mind. But when is React slow? In this talk we’ll discuss common bottlenecks in React and when you might be making your program work harder than it should. You will learn practical ways to speed up your real world React applications today."
-  subtype: workshop
-  speakers: [20]
-  language: en
-  complexity: "Intermediate"
--
   id: 015
   title: "Let's Fight: Redux side effects showdown"
   description: "Even in today’s world, handling asynchronous tasks is hard. There are several ways to handle them, but is there a single best way? Redux is the preferred state management pattern in apps today. By taking a basic example of login, we will compare the two in a showdown format and see the differences."
   subtype: workshop
   speakers: [22]
-  language: en
-  complexity: "Intermediate"
--
-  id: 016
-  title: "Scaling Angular: Major Keys To Success"
-  description: "Many Angular talks introduce cool concepts that usually require planning or additional time to implement. How about some Major Keys any developer can implement in an hour? Taking any beginner or intermediate developer to the next level. With better use of Observables, lazy loading, and PWAs you can!"
-  subtype: workshop
-  speakers: [20]
   language: en
   complexity: "Intermediate"
 -
@@ -186,5 +166,13 @@
   description: "A liberal arts or service sector background might seem irrelevant for coding; what does the humanities have to do with hashes? What do cocktails have to do with CSS? In fact, non-technical backgrounds point to secret superpowers that are increasingly valuable for technical positions."
   subtype: workshop
   speakers: [21]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 104
+  title: "I'd Hire more Women if they Would Apply!"
+  description: "In this discussion we’ll consider the some of the common reasons women might not apply to certain companies and or job postings, examine some of the “red flags” you might not realize you are waving, explore ways to make the hiring process more inclusive and discuss how to determine where the breakdown may be occurring."
+  subtype: workshop
+  speakers: [25]
   language: en
   complexity: "Intermediate"
