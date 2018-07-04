@@ -8,7 +8,7 @@
   thumbnailUrl: drew.jpg
   rockstar: false
 -
-  id: 2
+  id: 3
   name: "Rachael"
   surname: "McQuater"
   company: "Atomic Object"
@@ -53,7 +53,7 @@
   thumbnailUrl: sergio.jpg
   rockstar: false
 -
-  id: 9
+  id: 8
   name: "Jane"
   surname: " Prusakova"
   company: " "
@@ -62,7 +62,7 @@
   thumbnailUrl: jane.jpg
   rockstar: true
 -
-  id: 12
+  id: 9
   name: "Elle"
   surname: "Meredith"
   company: "Blackmill"
@@ -71,7 +71,7 @@
   thumbnailUrl: elle.jpg
   rockstar: true
 -
-  id: 13
+  id: 10
   name: "Sia"
   surname: " Karamalegos"
   company: " "
@@ -80,7 +80,7 @@
   thumbnailUrl: sia.jpg
   rockstar: true
 -
-  id: 14
+  id: 11
   name: "Luca"
   surname: "Maraschi"
   company: " "
@@ -89,7 +89,7 @@
   thumbnailUrl: luca.jpg
   rockstar: false
 -
-  id: 15
+  id: 12
   name: "Michael"
   surname: "Solati"
   company: "Sellpoints"
@@ -98,7 +98,7 @@
   thumbnailUrl: michael.jpg
   rockstar: false
 -
-  id: 16
+  id: 13
   name: "Joe"
   surname: "Karlsson"
   company: "Best Buy"
@@ -107,7 +107,7 @@
   thumbnailUrl: joe.jpg
   rockstar: false
 -
-  id: 17
+  id: 14
   name: "Lachlan"
   surname: "Hardy"
   company: "Blackmill"
@@ -117,7 +117,7 @@ Lachlan serves on the committee of Ruby Australia, a non-profit dedicated to sup
   thumbnailUrl: lachlan.jpg
   rockstar: false
 -
-  id: 18
+  id: 15
   name: "Bojan"
   surname: "Djurkovic"
   company: "Cvent"
@@ -126,7 +126,7 @@ Lachlan serves on the committee of Ruby Australia, a non-profit dedicated to sup
   thumbnailUrl: bojand.jpg
   rockstar: false
 -
-  id: 21
+  id: 16
   name: "Hilary"
   surname: "Stohs-Krause"
   company: "Ten Forward Consulting "
@@ -135,7 +135,7 @@ Lachlan serves on the committee of Ruby Australia, a non-profit dedicated to sup
   thumbnailUrl: hilary.jpg
   rockstar: true
 -
-  id: 22
+  id: 17
   name: "Ankita"
   surname: "Kulkarni"
   company: "Rangle.io"
@@ -144,8 +144,8 @@ Lachlan serves on the committee of Ruby Australia, a non-profit dedicated to sup
   thumbnailUrl: ankita.jpg
   rockstar: true
 -
-  id: 25
-  name: "Ronda "
+  id: 18
+  name: "Ronda"
   surname: "Bergman"
   company: ""
   title: ""
@@ -153,7 +153,16 @@ Lachlan serves on the committee of Ruby Australia, a non-profit dedicated to sup
   thumbnailUrl: ronda.jpg
   rockstar: true
 -
-  id: 99
+  id: 19
+  name: "Jenn"
+  surname: "Creighton"
+  company: "ClassPass"
+  title: "Senior Front-End Engineer"
+  bio: "Jenn Creighton is a senior front end engineer at ClassPass where she writes code between workouts. She is likely to talk your ear off about React, JavaScript, or her hatred of CSS floats. She lives in New York City with her 2 cats & 1 dog & a handful of succulents. Say hello to her @gurlcode!"
+  thumbnailUrl: jenn.jpg
+  rockstar: true
+-
+  id: 1
   name: "Coming Soon"
   surname: "Coming Soon"
   company: "TBA"

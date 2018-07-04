@@ -14,7 +14,7 @@
   title: "Session Title"
   description: "Description"
   subtype: workshop
-  speakers: [99]
+  speakers: [1]
   language: en
   complexity: "Intermediate"
 -
@@ -47,7 +47,7 @@
   title: "The Future of Front-End Performance"
   description: "Help! My app bundle is 5MB! My users are angry that my app is so slow! It’s easy to forget that performance matters when we are under pressure to deliver features quickly. We will talk about bleeding-edge topics in front-end performance such as dual-bundles for modern browser transpiling, hijacking download/parse/compile/execute time, and not blocking the main thread. Come learn how to deliver better user experience with high-performing front-end apps using Webpack. This talk is library-agnostic (React, Angular, Vue, etc.)"
   subtype: workshop
-  speakers: [13]
+  speakers: [10]
   language: en
   complexity: "Intermediate"
 -
@@ -67,7 +67,15 @@
 
     Learn to use Git commit messages to keep track of the intent of your code changes to make it easier to make future changes. Learn how to make using feature branches less painful and more effective. Learn the mechanics of interactive rebasing, how to merge conflicts without losing precious code and how to auto-squash commits. Basically, stop fearing interactive rebasing."
   subtype: workshop
-  speakers: [12]
+  speakers: [9]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 007
+  title: "Seeking System Zen with Universal TypeScript"
+  description: "Every codebase is a living, breathing thing. How do we take care of one? What leverage can a language give us in our task? Let us take you on our statically-, structurally- typed journey to holistic system health and harmony using universal Typescript."
+  subtype: workshop
+  speakers: [3,2]
   language: en
   complexity: "Intermediate"
 -
@@ -75,14 +83,13 @@
   title: "Ethics of software development"
   description: "Software has a lot of power to influence people’s lives and to encourage social change. With great power comes great responsibility. It is up to individuals involved in building software to decide what is right, ethical and moral, and these are not easy decisions."
   subtype: workshop
-  speakers: [9]
+  speakers: [8]
   language: en
   complexity: "Intermediate"
 -
   id: 009
   title: "Building a Karaoke Machine with Angular and HTML5 Speech Recognition "
-  description: "|
-    I’ll start this entertaining presentation by showing you what I built and how fun it is to use. Then we’ll get into where karaoke machines came from and how I used its history to build a web-based version. Native browser APIs have come a long way and the evolution of the web as a native platform and its possibilities will floor your audience."
+  description: "I’ll start this entertaining presentation by showing you what I built and how fun it is to use. Then we’ll get into where karaoke machines came from and how I used its history to build a web-based version. Native browser APIs have come a long way and the evolution of the web as a native platform and its possibilities will floor your audience."
   subtype: workshop
   speakers: [7]
   language: en
@@ -93,7 +100,7 @@
   description: "|
     In a world dominated by R, Python and Scala, Node.js is commonly seen as incapable of performing the work required by recommendation engines. Netflix has challenged bright minds for many years to find the best collaborative filtering algorithm and many other companies developed powerful systems like Apache Spark. Is it possible to achieve the similar results but using a more lightweight and commonly-known language like Javascript? Philip II of Macedon defined 'Divide et Impera' as the strategy of success in politics and sociology. Applying the same principle to this problem, takes us to how to distribute and coordinate AI computations."
   subtype: workshop
-  speakers: [14]
+  speakers: [11]
   language: en
   complexity: "Intermediate"
 -
@@ -101,7 +108,7 @@
   title: "Scaling Angular: Major Keys To Success"
   description: "You’ve made your first app, or maybe you’ve even been working with Angular for the past year now. Still, there’s something missing and you can’t put your finger on… How can you take your applications to the next level? What’s this lazy loading I hear about? Do I really have to subscribe to all my Observables? Man, how can I make my apps run faster? That’s ok, we’re going to drop some major KEYS to building your apps. Now that you’ve made a few components, have gotten routing figured out in your apps, it’s time to step up your ng-game! Learn about the best practices and ways to make fast and large Angular applications like a pro."
   subtype: workshop
-  speakers: [15]
+  speakers: [12]
   language: en
   complexity: "Beginner/Intermediate"
 -
@@ -109,31 +116,31 @@
   title: "Building High Performance React Applications"
   description: "React is built with performance in mind. But when is React slow? In this talk we’ll discuss common bottlenecks in React and when you might be making your program work harder than it should. You will learn practical ways to speed up your real world React applications today."
   subtype: workshop
-  speakers: [16]
+  speakers: [13]
   language: en
   complexity: "Beginner/Intermediate"
--
-  id: 07
-  title: "Seeking System Zen with Universal TypeScript"
-  description: "Every codebase is a living, breathing thing. How do we take care of one? What leverage can a language give us in our task? Let us take you on our statically-, structurally- typed journey to holistic system health and harmony using universal Typescript."
-  subtype: workshop
-  speakers: [1,2]
-  language: en
-  complexity: "Intermediate"
 -
   id: 013
   title: "Beyond REST - A guide to gRPC"
   description: "gRPC is a high performance, language-neutral, general RPC framework developed at Google and based on HTTP/2. This session will provide a practical overview of building micro-services using gRPC, demonstrating its many benefits and providing insight into some of its challenges."
   subtype: workshop
-  speakers: [18]
+  speakers: [15]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 014
+  title: "Let's Fight: Redux side effects showdown"
+  description: "Even in today’s world, handling asynchronous tasks is hard. There are several ways to handle them, but is there a single best way? Redux is the preferred state management pattern in apps today. By taking a basic example of login, we will compare the two in a showdown format and see the differences."
+  subtype: workshop
+  speakers: [17]
   language: en
   complexity: "Intermediate"
 -
   id: 015
-  title: "Let's Fight: Redux side effects showdown"
-  description: "Even in today’s world, handling asynchronous tasks is hard. There are several ways to handle them, but is there a single best way? Redux is the preferred state management pattern in apps today. By taking a basic example of login, we will compare the two in a showdown format and see the differences."
+  title: "The how's and why's of flexible React components"
+  description: "Building React components is simple — until it isn’t. Real world constraints can lead to large components that 'do it all'. Or near identical components with one or two changes. So how do we create flexible components without sacrificing readability and scalability? Jenn shares how she re-architected components to handle multiple use cases and increase engineer happiness. She’ll breakdown the technical concerns for each component, the patterns she considered using, what didn’t work and what did. You’ll learn more than the 'how' of component architecture – you’ll learn the 'why'!"
   subtype: workshop
-  speakers: [22]
+  speakers: [19]
   language: en
   complexity: "Intermediate"
 -
@@ -141,7 +148,7 @@
   title: "Effective code reviews"
   description: "Code reviews are a great way to build better quality software, but they are complicated to implement well. Code reviews are as much about code and technical knowledge, as they are about people and culture. They improve team dynamic, help juniors & seniors grow in their careers."
   subtype: workshop
-  speakers: [9]
+  speakers: [8]
   language: en
   complexity: "Intermediate"
 -
@@ -149,7 +156,7 @@
   title: "Re-imagine the hiring process"
   description: "Diverse inclusive teams matter. Maintaining and growing your team is a key challenge. Learn to develop a better hiring process and policies to help produce better teams."
   subtype: workshop
-  speakers: [12, 17]
+  speakers: [9, 14]
   language: en
   complexity: "Intermediate"
 -
@@ -165,14 +172,14 @@
   title: "Beer, bylines and booleans: How the service sector and liberal arts can secretly prepare folks for tech careers"
   description: "A liberal arts or service sector background might seem irrelevant for coding; what does the humanities have to do with hashes? What do cocktails have to do with CSS? In fact, non-technical backgrounds point to secret superpowers that are increasingly valuable for technical positions."
   subtype: workshop
-  speakers: [21]
+  speakers: [16]
   language: en
   complexity: "Intermediate"
 -
-  id: 104
+  id: 105
   title: "I'd Hire more Women if they Would Apply!"
   description: "In this discussion we’ll consider the some of the common reasons women might not apply to certain companies and or job postings, examine some of the “red flags” you might not realize you are waving, explore ways to make the hiring process more inclusive and discuss how to determine where the breakdown may be occurring."
   subtype: workshop
-  speakers: [25]
+  speakers: [18]
   language: en
   complexity: "Intermediate"
