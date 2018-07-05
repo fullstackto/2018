@@ -32,7 +32,7 @@
     unreliability."
   subtype: workshop
   speakers: [4]
-  language: en
+  language: "API, Architecture"
   complexity: "Intermediate"
 -
   id: 003
@@ -40,7 +40,7 @@
   description: "Designing good applications is complex, involves analytical and creative thinking, as well as a lot of tedious, but necessary work. Defining a design language that cares about end users and empowers designers to create appealing and intuitive apps – while covering business needs and ensuring consistency – is a major challenge. We will share our insights and best practices based on our own journey."
   subtype: workshop
   speakers: [5]
-  language: en
+  language: "Architecture, UX, Front-End"
   complexity: "All"
 -
   id: 004
@@ -48,7 +48,7 @@
   description: "Help! My app bundle is 5MB! My users are angry that my app is so slow! It’s easy to forget that performance matters when we are under pressure to deliver features quickly. We will talk about bleeding-edge topics in front-end performance such as dual-bundles for modern browser transpiling, hijacking download/parse/compile/execute time, and not blocking the main thread. Come learn how to deliver better user experience with high-performing front-end apps using Webpack. This talk is library-agnostic (React, Angular, Vue, etc.)"
   subtype: workshop
   speakers: [10]
-  language: en
+  language: "javascript, front-end, webpack, performance, devtools"
   complexity: "Intermediate"
 -
   id: 005
@@ -58,7 +58,7 @@
     The Underground Railroad provides insights that technical leaders can use to improve their teams, products, and customer relationships. This talk will share timeless lessons of courage and leadership from the men and women who risked everything for the success of their teams."
   subtype: workshop
   speakers: [6]
-  language: en
+  language: "Leadership, Culture, Diversity"
   complexity: "Intermediate"
 -
   id: 006
@@ -68,7 +68,7 @@
     Learn to use Git commit messages to keep track of the intent of your code changes to make it easier to make future changes. Learn how to make using feature branches less painful and more effective. Learn the mechanics of interactive rebasing, how to merge conflicts without losing precious code and how to auto-squash commits. Basically, stop fearing interactive rebasing."
   subtype: workshop
   speakers: [9]
-  language: en
+  language: "GIT, Dev Tools"
   complexity: "Intermediate"
 -
   id: 007
@@ -76,7 +76,7 @@
   description: "Every codebase is a living, breathing thing. How do we take care of one? What leverage can a language give us in our task? Let us take you on our statically-, structurally- typed journey to holistic system health and harmony using universal Typescript."
   subtype: workshop
   speakers: [3,2]
-  language: en
+  language: "front-end, back-end, architecture, javascript, typescript"
   complexity: "Intermediate"
 -
   id: 008
@@ -84,7 +84,7 @@
   description: "Software has a lot of power to influence people’s lives and to encourage social change. With great power comes great responsibility. It is up to individuals involved in building software to decide what is right, ethical and moral, and these are not easy decisions."
   subtype: workshop
   speakers: [8]
-  language: en
+  language: "Architecture, Dev Tools"
   complexity: "Intermediate"
 -
   id: 009
@@ -92,16 +92,15 @@
   description: "I’ll start this entertaining presentation by showing you what I built and how fun it is to use. Then we’ll get into where karaoke machines came from and how I used its history to build a web-based version. Native browser APIs have come a long way and the evolution of the web as a native platform and its possibilities will floor your audience."
   subtype: workshop
   speakers: [7]
-  language: en
+  language: "angular, front-end, api, javascript"
   complexity: "Intermediate"
 -
   id: 010
   title: "A stateless stateful service for cooperative filtering in Node.js"
-  description: "|
-    In a world dominated by R, Python and Scala, Node.js is commonly seen as incapable of performing the work required by recommendation engines. Netflix has challenged bright minds for many years to find the best collaborative filtering algorithm and many other companies developed powerful systems like Apache Spark. Is it possible to achieve the similar results but using a more lightweight and commonly-known language like Javascript? Philip II of Macedon defined 'Divide et Impera' as the strategy of success in politics and sociology. Applying the same principle to this problem, takes us to how to distribute and coordinate AI computations."
+  description: "In a world dominated by R, Python and Scala, Node.js is commonly seen as incapable of performing the work required by recommendation engines. Netflix has challenged bright minds for many years to find the best collaborative filtering algorithm and many other companies developed powerful systems like Apache Spark. Is it possible to achieve the similar results but using a more lightweight and commonly-known language like Javascript? Philip II of Macedon defined 'Divide et Impera' as the strategy of success in politics and sociology. Applying the same principle to this problem, takes us to how to distribute and coordinate AI computations."
   subtype: workshop
   speakers: [11]
-  language: en
+  language: "nodejs, ai, cooperative-filtering, kubernetes, architecture"
   complexity: "Intermediate"
 -
   id: 011
@@ -109,7 +108,7 @@
   description: "You’ve made your first app, or maybe you’ve even been working with Angular for the past year now. Still, there’s something missing and you can’t put your finger on… How can you take your applications to the next level? What’s this lazy loading I hear about? Do I really have to subscribe to all my Observables? Man, how can I make my apps run faster? That’s ok, we’re going to drop some major KEYS to building your apps. Now that you’ve made a few components, have gotten routing figured out in your apps, it’s time to step up your ng-game! Learn about the best practices and ways to make fast and large Angular applications like a pro."
   subtype: workshop
   speakers: [12]
-  language: en
+  language: "Angular, javascript, observables, pwa, front-end"
   complexity: "Beginner/Intermediate"
 -
   id: 012
@@ -117,7 +116,7 @@
   description: "React is built with performance in mind. But when is React slow? In this talk we’ll discuss common bottlenecks in React and when you might be making your program work harder than it should. You will learn practical ways to speed up your real world React applications today."
   subtype: workshop
   speakers: [13]
-  language: en
+  language: "JavaScript, React, Performance, front end"
   complexity: "Beginner/Intermediate"
 -
   id: 013
@@ -125,7 +124,7 @@
   description: "gRPC is a high performance, language-neutral, general RPC framework developed at Google and based on HTTP/2. This session will provide a practical overview of building micro-services using gRPC, demonstrating its many benefits and providing insight into some of its challenges."
   subtype: workshop
   speakers: [15]
-  language: en
+  language: "back-end, api, rpc, architecture"
   complexity: "Intermediate"
 -
   id: 014
@@ -133,7 +132,7 @@
   description: "Even in today’s world, handling asynchronous tasks is hard. There are several ways to handle them, but is there a single best way? Redux is the preferred state management pattern in apps today. By taking a basic example of login, we will compare the two in a showdown format and see the differences."
   subtype: workshop
   speakers: [17]
-  language: en
+  language: "front-end, functional-programming, react"
   complexity: "Intermediate"
 -
   id: 015
@@ -141,7 +140,7 @@
   description: "Building React components is simple — until it isn’t. Real world constraints can lead to large components that 'do it all'. Or near identical components with one or two changes. So how do we create flexible components without sacrificing readability and scalability? Jenn shares how she re-architected components to handle multiple use cases and increase engineer happiness. She’ll breakdown the technical concerns for each component, the patterns she considered using, what didn’t work and what did. You’ll learn more than the 'how' of component architecture – you’ll learn the 'why'!"
   subtype: workshop
   speakers: [19]
-  language: en
+  language: "React, JavaScript, Architecture"
   complexity: "Intermediate"
 -
   id: 101
@@ -149,7 +148,7 @@
   description: "Code reviews are a great way to build better quality software, but they are complicated to implement well. Code reviews are as much about code and technical knowledge, as they are about people and culture. They improve team dynamic, help juniors & seniors grow in their careers."
   subtype: workshop
   speakers: [8]
-  language: en
+  language: "Professional Development, Management"
   complexity: "Intermediate"
 -
   id: 102
@@ -157,7 +156,7 @@
   description: "Diverse inclusive teams matter. Maintaining and growing your team is a key challenge. Learn to develop a better hiring process and policies to help produce better teams."
   subtype: workshop
   speakers: [9, 14]
-  language: en
+  language: "Leadership, Diversity, Hiring"
   complexity: "Intermediate"
 -
   id: 103
@@ -165,15 +164,15 @@
   description: "Whether you’re a Tech Lead, Engineering Manager, or Project Manager for an engineering team, you probably weren’t handed an instruction manual when you were given your first team to lead. This talk will show you how to apply the principles in the Agile Manifesto to become a better leader."
   subtype: workshop
   speakers: [6]
-  language: en
+  language: "Leadership, Agile"
   complexity: "Intermediate"
 -
   id: 104
-  title: "Beer, bylines and booleans: How the service sector and liberal arts can secretly prepare folks for tech careers"
+  title: "Beer, bylines and booleans: How the service sector and liberal arts prepare folks for tech"
   description: "A liberal arts or service sector background might seem irrelevant for coding; what does the humanities have to do with hashes? What do cocktails have to do with CSS? In fact, non-technical backgrounds point to secret superpowers that are increasingly valuable for technical positions."
   subtype: workshop
   speakers: [16]
-  language: en
+  language: "Professional Development"
   complexity: "Intermediate"
 -
   id: 105
@@ -181,7 +180,7 @@
   description: "In this discussion we’ll consider the some of the common reasons women might not apply to certain companies and or job postings, examine some of the “red flags” you might not realize you are waving, explore ways to make the hiring process more inclusive and discuss how to determine where the breakdown may be occurring."
   subtype: workshop
   speakers: [18]
-  language: en
+  language: "Hiring, Diversity"
   complexity: "Intermediate"
 -
   id: 106
@@ -189,5 +188,5 @@
   description: "You’ve been told to do 1:1 meetings to be an effective leader, but maybe you haven’t received much guidance on how to perform them effectively. I’ve been experimenting for a few years on how to get more out of these meetings, and I’ve come away with these three tools that have helped the most."
   subtype: workshop
   speakers: [20]
-  language: en
+  language: "Management, Professional Development"
   complexity: "Intermediate"
