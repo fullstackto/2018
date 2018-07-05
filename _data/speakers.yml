@@ -162,6 +162,15 @@ Lachlan serves on the committee of Ruby Australia, a non-profit dedicated to sup
   thumbnailUrl: jenn.jpg
   rockstar: true
 -
+  id: 20
+  name: "Greg"
+  surname: "Dick"
+  company: "Hudl"
+  title: "Senior Engineering Team Lead"
+  bio: "I’m a Senior Engineering Team Lead at Hudl. My role as a team lead could be more accurately described as a coach. I have a passion for helping people, and I take that into my management role in form of coaching my reports to become better engineers, finding the best ways to motivate them, and providing them with authentic connections and meaningful relationships."
+  thumbnailUrl: greg.jpg
+  rockstar: true
+-
   id: 1
   name: "Coming Soon"
   surname: "Coming Soon"

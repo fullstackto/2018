@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "Full Stack Toronto 2018"
 email: "comms@fsto.co"
-description: "FSTO is a conference for web developers focusing on senior and quality content."
+description: "FSTO is a conference focusing on practical and quality content for web developers and their leaders!"
 baseurl: ""
 url: "http://fsto.co"
 permalink: "/blog/:title"
@@ -54,11 +54,11 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Full Stack Toronto 2018"
-eventDate: "November 29 &amp; 30, 2018"
+eventDate: "November 29 &amp; 30, 2018, Leadership Sumit Nov. 28"
 typeoutTextValues: '""'
 typeoutFallback: ""
 heroButtons:
- - {link: "https://www.papercall.io/fstoco18", text: "Become a speaker"}
+ - {link: "/schedule", text: "View Schedule"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block

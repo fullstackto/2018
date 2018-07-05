@@ -183,3 +183,11 @@
   speakers: [18]
   language: en
   complexity: "Intermediate"
+-
+  id: 106
+  title: "Three Tools for Better 1:1 Meetings"
+  description: "You’ve been told to do 1:1 meetings to be an effective leader, but maybe you haven’t received much guidance on how to perform them effectively. I’ve been experimenting for a few years on how to get more out of these meetings, and I’ve come away with these three tools that have helped the most."
+  subtype: workshop
+  speakers: [20]
+  language: en
+  complexity: "Intermediate"
