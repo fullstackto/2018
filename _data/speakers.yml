@@ -47,8 +47,8 @@
   id: 7
   name: "Sergio"
   surname: "Cruz"
-  company: " "
-  title: " "
+  company: "Freelancer"
+  title: "Sr. Software Developer"
   bio: "Sergio Cruz is a senior software developer who works regularly with all things JavaScript. He has a passion for teaching technical topics and loves exploring the latest web development trends."
   thumbnailUrl: sergio.jpg
   rockstar: false
@@ -56,8 +56,8 @@
   id: 8
   name: "Jane"
   surname: " Prusakova"
-  company: " "
-  title: " "
+  company: "Freelancer"
+  title: "Software Architect"
   bio: "I am a software architect and developer, an Agile proponent, and a great believer in building valuable software that users will love to use. I build large back-end systems that require high-performance and high-reliability, and process vast amounts of data. I believe that successful software is created by strong teams, requires good engineering practices, and evolves in close collaboration with the users. As a Principal Consultant for Improving Enterprises, I work with distributed teams on distributed software. As a consulting team, we focus on technical excellence, close contact with the client, and rapid iterations."
   thumbnailUrl: jane.jpg
   rockstar: true
@@ -73,9 +73,9 @@
 -
   id: 10
   name: "Sia"
-  surname: " Karamalegos"
-  company: " "
-  title: " "
+  surname: "Karamalegos"
+  company: "Clio + Calliope"
+  title: "Founder and Lead Developer"
   bio: "Sia Karamalegos is the founder and lead developer for Clio + Calliope Web Development. She has over 15 years of experience in technology, strategy, project management, and operations from small startups to large corporations across multiple industries, especially high-tech and education. She leverages her depth of experience with software engineering to build high-value applications."
   thumbnailUrl: sia.jpg
   rockstar: true
@@ -83,9 +83,9 @@
   id: 11
   name: "Luca"
   surname: "Maraschi"
-  company: " "
+  company: "nearForm"
   title: "Principal Architect"
-  bio: "Luca is a Principal Architect in the nearForm with an academical background in Physics and Artificial Intelligence designing compilers and programming languages for the game industry. He later shifted his focus to the Enterprise World, leading some of the largest Microsoft Dynamics CRM implementations. Coming from an entrepreneurial background, Luca has significant experience in the world of startups, and is responsible for both founding and advising a number of startups which later exited. Before joining nearForm, Luca led the architecture for the Digital Loyalty Platform in IceMobile (now part of LoyaltyOne) and started to contribute to Node core; he is currently an active member of the post-mortem working group and an active collaborator. Luca’s experience and wide range of interests have seen him become expert in the design of distributed architectures at scale, big data systems and in helping business and technology to grow or change."
+  bio: "Luca is a Principal Architect at nearForm with an academical background in Physics and Artificial Intelligence designing compilers and programming languages for the game industry. He later shifted his focus to the Enterprise World, leading some of the largest Microsoft Dynamics CRM implementations. Coming from an entrepreneurial background, Luca has significant experience in the world of startups, and is responsible for both founding and advising a number of startups which later exited. Before joining nearForm, Luca led the architecture for the Digital Loyalty Platform in IceMobile (now part of LoyaltyOne) and started to contribute to Node core; he is currently an active member of the post-mortem working group and an active collaborator. Luca’s experience and wide range of interests have seen him become expert in the design of distributed architectures at scale, big data systems and in helping business and technology to grow or change."
   thumbnailUrl: luca.jpg
   rockstar: false
 -
@@ -147,8 +147,8 @@ Lachlan serves on the committee of Ruby Australia, a non-profit dedicated to sup
   id: 18
   name: "Ronda"
   surname: "Bergman"
-  company: ""
-  title: ""
+  company: "EllaVatec"
+  title: "Co-Founder and Lead Consultant"
   bio: "Ronda has been working as a software developer for 18+ years, primarily in the .NET stack. She has worked for large multi-national organizations and small startups. She is the Co-founder and lead consultant of EllaVatec, a diversity and inclusion consultancy. The Co-founder and Chapter Leader of Girl Develop It Ann Arbor. A Software Artisan at Pillar Technologies, and the Vice President of Ann Arbor .NET Developers. As a female developer and the mother of 2 female developers she is working hard to help level the playing field for everyone in the industry."
   thumbnailUrl: ronda.jpg
   rockstar: true
