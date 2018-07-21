@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "Full Stack Toronto 2018"
 email: "comms@fsto.co"
-description: "Join 350 leaders in web development this Nov. 28-30!"
+description: "Bringing together peers & leaders in web development for high quality practical trainning."
 baseurl: ""
 url: "http://fsto.co"
 permalink: "/blog/:title"
@@ -23,7 +23,7 @@ siteVerification: "2dVIu83aF5CgxgbO2Oj8UDYVxOcp3T9UK5kLDqX_63s"
 # Organizer Info
 organizerName: "Full Stack Toronto"
 organizerAlternateName: "FSTO"
-organizerDescription: "Join 350 leaders in web development for high quality practical sessions!"
+organizerDescription: "Bringing together peers & leaders in web development for high quality practical trainning."
 organizerEmail: "comms@fsto.co"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://fsto.co/"
