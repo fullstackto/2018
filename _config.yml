@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "Full Stack Toronto 2018"
 email: "comms@fsto.co"
-description: "FSTO is a conference focusing on practical and quality content for web developers and their leaders!"
+description: "Join 350 leaders in web development this Nov. 28-30!"
 baseurl: ""
 url: "http://fsto.co"
 permalink: "/blog/:title"
@@ -23,17 +23,17 @@ siteVerification: "2dVIu83aF5CgxgbO2Oj8UDYVxOcp3T9UK5kLDqX_63s"
 # Organizer Info
 organizerName: "Full Stack Toronto"
 organizerAlternateName: "FSTO"
-organizerDescription: "Full Stack Toronto is a non-profit organization that grows web developers with high quality and practical content."
+organizerDescription: "Join 350 leaders in web development for high quality practical sessions!"
 organizerEmail: "comms@fsto.co"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://fsto.co/"
 
 # Head
-metaKeywords: "event, devfest, programming, developers, web development, development, full stack toronto, full stack, toronto, ontario, canada, web development conference, conference, training, event, web event, front-end, back-end, leadership, management"
+metaKeywords: "event, devfest, programming, developers, web development, development, full stack toronto, full stack, toronto, ontario, canada, web development conference, conference, training, event, web event, front-end, back-end, leadership, management, leadership, dev summit, summit, dev, education, coding, coder, programming, computer science"
 twitterAccount: "@fstoco"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+socialImageSrcGooglePlus: "/img/seo/card.jpg"
+socialImageSrcTwitter: "/img/seo/card.jpg"
+socialImageSrcFacebook: "/img/seo/card.jpg"
 
 # Documents
 c4pUrl: "https://www.papercall.io/fstoco18"
@@ -47,14 +47,14 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
- - {link: "https://www.papercall.io/fstoco18", text: "Become a speaker"}
+ - {permalink: "/#tickets", text: "Buy tickets"}
 rightNavigationButtons:
- - {link: "https://www.papercall.io/fstoco18", text: "Become a speaker"}
+ - {permalink: "/#tickets", text: "Buy tickets"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Full Stack Toronto 2018"
-eventDate: "November 29 &amp; 30, 2018, Leadership Sumit Nov. 28"
+eventDate: "November 29 &amp; 30, 2018, Leadership Summit Nov. 28"
 typeoutTextValues: '""'
 typeoutFallback: ""
 heroButtons:
