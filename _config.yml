@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "Full Stack Toronto 2018"
 email: "comms@fsto.co"
-description: "Bringing together peers & leaders in web development for high quality practical trainning."
+description: "Bringing together peers & leaders in web development for high quality practical training."
 baseurl: ""
 url: "http://fsto.co"
 permalink: "/blog/:title"

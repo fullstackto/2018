@@ -1,5 +1,9 @@
 (function($) {
     $(document).ready(function() {
+      var buyButton = $('.right-nav-button');
+      buyButton.click(function() {
+        fbq('track', 'AddToCart');
+      })
         $(window).load(function() {
             $('#st-container').removeClass('disable-scrolling');
             $('#loading-animation').fadeOut();
@@ -28,7 +32,6 @@
             var scroll = $(this).scrollTop();
             var header = $('#top-header');
             var logo = $('#logo-header .logo');
-            var buyButton = $('.right-nav-button');
             var topOffset = header.height() + $('.track-header').height();
 
             if (scroll >= 100) {
@@ -103,7 +106,7 @@
             if(window.location.href.indexOf("schedule") > -1 && window.location.hash) {
                 var hash = window.location.hash;
                 $(hash).click();
-            } 
+            }
         });
 
         $(function() {
@@ -483,7 +486,7 @@
                 setDirectionInput(origin);
                 $('#find-way h3').removeClass('fadeInUp').addClass('fadeOutDown');
             }
-            
+
             function calcRouteFromMyLocation() {
                 if (navigator.geolocation) {
                     navigator.geolocation.getCurrentPosition(function(position) {
