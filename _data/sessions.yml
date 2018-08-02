@@ -176,8 +176,22 @@
   complexity: "Intermediate"
 -
   id: 105
-  title: "I'd Hire more Women if they Would Apply!"
-  description: "In this discussion we’ll consider the some of the common reasons women might not apply to certain companies and or job postings, examine some of the “red flags” you might not realize you are waving, explore ways to make the hiring process more inclusive and discuss how to determine where the breakdown may be occurring."
+  title: "How to be a Male Ally in Tech"
+  description: "Men, you have it easier than women when it comes to working in tech.
+
+If this statement makes you angry good! Hopefully it makes you angry because you want to be a part of an industry that works for everyone. Do you read all the news reports about the diversity problems in tech and think someone should do something about that? Maybe that someone should be you!
+
+You might be thinking how can I help fix this problem as a guy? Will the women around me think I’m sincere? Yes, you can be a big part of the solution. And, yes they might question your sincerity at first, but with time and effort you can show everyone that diversity is important to you too!
+
+There will be mistakes along the way and that’s ok. We make mistakes too. But by learning from those mistakes and continuing to try, we can make tech a better place for everyone.
+
+Some of the topics we’ll cover are:
+
+Why diversity should be important to everyone
+The difference between being an ally and being a knight in shining armor
+What to do if you see inappropriate behavior
+How to make your workplace more inclusive
+Actions matter even when it’s just the guys"
   subtype: workshop
   speakers: [18]
   language: "Hiring, Diversity"
@@ -190,3 +204,12 @@
   speakers: [20]
   language: "Management, Professional Development"
   complexity: "Intermediate"
+-
+  id: 107
+  title: "Organization and Architecture"
+  description: "You might know Conway’s law, but do you know the Inverse Conway Maneuver? Studies have proven that how your team is organized influences your architecture. How can you use that influence to your advantage instead of trying to fight it? In this talk, I will show you how."
+  subtype: workshop
+  speakers: [21]
+  language: "Management, Leadership"
+  complexity: "Intermediate"
+-

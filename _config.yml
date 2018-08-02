@@ -37,7 +37,7 @@ socialImageSrcFacebook: "/img/seo/card.jpg"
 
 # Documents
 c4pUrl: "https://www.papercall.io/fstoco18"
-c4sponsorsUrl: "mailto: sponsorship@fsto.co"
+c4sponsorsUrl: "/assets/fstoco-sponsorship.pdf"
 
 
 # Navigation
@@ -46,6 +46,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/logistics/", text: "Logistics"}
+ - {link: "/assets/fstoco-sponsorship.pdf", text: "Sponsor"}
 bottomNavigationLinks:
  - {permalink: "/#tickets", text: "Buy tickets"}
 rightNavigationButtons:
