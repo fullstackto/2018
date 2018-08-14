@@ -2,6 +2,7 @@
   group: "On-Site Sponsors"
   elements:
     - {name: "Intelliware", description: "Intelliware", link: "http://www.intelliware.com/", imageUrl: "intelliware.jpg"}
+    - {name: "York University", description: "York University", link: "http://continue.yorku.ca/certificates/certificate-in-full-stack-web-development/?utm_source=sponsor&utm_campaign=fsto", imageUrl: "yorku.jpg"}
 -
   group: "Special Thanks"
   elements:
