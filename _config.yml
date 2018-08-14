@@ -136,7 +136,7 @@ ticketsOffers:
   name: "Leadership Summit"
   price: "99"
   priceCurrency: "CAD"
-  ticketsNumber: "150"
+  ticketsNumber: "250"
   ribbon: ""
   buyButtonLink: "https://ti.to/fstoco/2018"
   buyButtonText: "Buy Now"
@@ -146,29 +146,29 @@ ticketsOffers:
   disabled: false
   additionalInfo: "Add an extra day before Full Stack Toronto to attend our leadership summit for tech leads, team leads, managers, cto's and those who want to become one! **This does NOT include admission to the two day conference**"
  -
-  name: "Conference Ticket"
+  name: "Early Bird Conference Ticket"
   price: "299"
   priceCurrency: "CAD"
-  ticketsNumber: "250"
+  ticketsNumber: "150"
   ribbon: ""
   featured: true
   buyButtonLink: "https://ti.to/fstoco/2018"
   buyButtonText: "Buy Now"
   ticketContentList: ["Nov 29-30", "Lunch", "Swag", "Recordings of Sessions"]
   validFrom: "2018-04-25T10:00"
-  validThrough: "2018-11-03T23:59"
+  validThrough: "2018-09-14T23:59"
   disabled: false
  -
-  name: "Student/NPO"
-  price: "99"
+  name: "Conference Ticket"
+  price: "399"
   priceCurrency: "CAD"
-  ticketsNumber: "50"
+  ticketsNumber: "100"
   buyButtonLink: "https://ti.to/fstoco/2018"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Student and NPO discount ticket for the conference. Requires a valid student ID to be emailed to registration@fsto.co"
+  buyButtonText: "On Sale Soon!"
+  additionalInfo: ""
   ticketContentList: ["Light Breakfast, Lunch", "Swag", "Networking"]
-  validFrom: "2018-04-25T10:00"
-  validThrough: "2018-11-14T23:59"
+  validFrom: "2018-09-15T00:01"
+  validThrough: "2018-11-13T23:59"
   soldOut: false
   soldOutText: "Sold Out"
 
