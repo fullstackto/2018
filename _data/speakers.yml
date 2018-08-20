@@ -1,19 +1,10 @@
 -
-  id: 2
-  name: "Drew"
-  surname: "Colthorp"
-  company: "Atomic Object"
-  title: "Principal Software Consultant & Developer"
-  bio: "Drew Colthorp is a principal consultant and Rachael McQuater is a developer at Atomic Object. Drew has been seeking out better ways to write JavaScript for 20 years, and Rachael is just getting started with the same. We’re both really excited about the power and beauty of software that closely models complex real-world problem domains. Together we’re working to share what we’ve learned about building more robust, powerful, easy-to-write code with TypeScript."
-  thumbnailUrl: drew.jpg
-  rockstar: false
--
   id: 3
   name: "Rachael"
   surname: "McQuater"
   company: "Atomic Object"
   title: "Software Consultant & Developer"
-  bio: "Drew Colthorp is a principal consultant and Rachael McQuater is a developer at Atomic Object. Drew has been seeking out better ways to write JavaScript for 20 years, and Rachael is just getting started with the same. We’re both really excited about the power and beauty of software that closely models complex real-world problem domains. Together we’re working to share what we’ve learned about building more robust, powerful, easy-to-write code with TypeScript."
+  bio: "Rachael McQuater is a Software Consultant and Developer at Atomic Object who is excited about building beautiful software that closely models real-world problem domains. She and her colleagues at Atomic are exploring new ways to build more robust, powerful, easy-to-write web applications with TypeScript."
   thumbnailUrl: rachelmiller.jpg
   rockstar: true
 -
