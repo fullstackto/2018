@@ -10,14 +10,6 @@
   place: "Dining room"
   service: true
 -
-  id: 001
-  title: "Session Title"
-  description: "Description"
-  subtype: workshop
-  speakers: [1]
-  language: en
-  complexity: "Intermediate"
--
   id: 002
   title: "Building APIs for an unreliable world"
   description: "Networks and computing systems are unreliable. Connections drop or slow to
@@ -75,7 +67,7 @@
   title: "Seeking System Zen with Universal TypeScript"
   description: "Every codebase is a living, breathing thing. How do we take care of one? What leverage can a language give us in our task? Let us take you on our statically-, structurally- typed journey to holistic system health and harmony using universal Typescript."
   subtype: workshop
-  speakers: [3,2]
+  speakers: [3]
   language: "front-end, back-end, architecture, javascript, typescript"
   complexity: "Intermediate"
 -
@@ -212,4 +204,3 @@ Actions matter even when it’s just the guys"
   speakers: [21]
   language: "Management, Leadership"
   complexity: "Intermediate"
--
