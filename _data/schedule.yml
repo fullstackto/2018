@@ -199,15 +199,5 @@
     - {
     	startTime: "2:45",
     	endTime: "3:30",
-    	sessionIds: [004]
-    }
-    - {
-    	startTime: "3:30",
-    	endTime: "3:45",
-    	sessionIds: [307]
-    }
-    - {
-    	startTime: "3:45",
-    	endTime: "4:30",
     	sessionIds: [009]
     }
