@@ -3,8 +3,9 @@
   elements:
     - {name: "Intelliware", description: "Intelliware", link: "http://www.intelliware.com/", imageUrl: "intelliware.jpg"}
     - {name: "York University", description: "York University", link: "http://continue.yorku.ca/certificates/certificate-in-full-stack-web-development/?utm_source=sponsor&utm_campaign=fsto", imageUrl: "yorku.jpg"}
-    - {name: "LoyaltyOne", description: "LoyaltyOne", link: "http://bit.ly/2CMMUme", imageUrl: "loyaltyone.png"}      
+    - {name: "LoyaltyOne", description: "LoyaltyOne", link: "http://bit.ly/2CMMUme", imageUrl: "loyaltyone.png"}
 -
   group: "Special Thanks"
   elements:
     - {name: "Tito", description: "Tito", link: "http://ti.to", imageUrl: "tito-machine.jpg"}
+    - {name: "Manifold", description: "Manifold", link: "#", imageUrl: "manifold.png"}
