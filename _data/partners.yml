@@ -1,9 +1,13 @@
 -
-  group: "On-Site Sponsors"
+  group: "Gold Sponsors"
   elements:
+    - {name: "RBC Ventures", description: "RBC Ventures", link: "https://www.rbcventures.ca/", imageUrl: "rbc.png"}
     - {name: "Intelliware", description: "Intelliware", link: "http://www.intelliware.com/", imageUrl: "intelliware.jpg"}
-    - {name: "York University", description: "York University", link: "http://continue.yorku.ca/certificates/certificate-in-full-stack-web-development/?utm_source=sponsor&utm_campaign=fsto", imageUrl: "yorku.jpg"}
     - {name: "LoyaltyOne", description: "LoyaltyOne", link: "http://bit.ly/2CMMUme", imageUrl: "loyaltyone.png"}
+-
+  group: "Silver Sponsors"
+  elements:
+    - {name: "York University", description: "York University", link: "http://continue.yorku.ca/certificates/certificate-in-full-stack-web-development/?utm_source=sponsor&utm_campaign=fsto", imageUrl: "yorku.jpg"}
 -
   group: "Special Thanks"
   elements:
